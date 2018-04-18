@@ -42,7 +42,7 @@ p.lead {
 }
 
 .info.cover {
-  background: url('/images/info-cover.jpg');
+  background: url('images/info-cover.jpg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -52,7 +52,7 @@ p.lead {
 }
 
 .cover {
-  background: url('/images/cover.jpg');
+  background: url('images/cover.jpg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -73,14 +73,15 @@ p.lead {
   opacity: 0.5;
 }
 
+/*
 @media (max-width: 768px) {
   .cover {
-    background: url('/images/cover-mobile.jpg');
+    background: url('images/cover-mobile.jpg');
   }
   .btn.btn-demo {
     margin-left: 0;
   }
-}
+}*/
 
 .cover h1 {
   color: #fff;
