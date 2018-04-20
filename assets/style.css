@@ -4,7 +4,7 @@ https://color.adobe.com/create/color-wheel/?base=2&rule=Triad&selected=4&name=My
 
 body {
   font-family: 'Merriweather', serif;
-  font-size: 1.25rem;
+  font-size: 1.1rem;
 }
 
 nav.navbar {
@@ -38,7 +38,7 @@ h2 {
 }
 
 p.lead {
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 .info.cover {
@@ -71,6 +71,14 @@ p.lead {
   top: 0;
   left: 0;
   opacity: 0.5;
+}
+
+.partners img {
+  width: 100%;
+}
+
+.partners .row {
+  margin: 0 auto;
 }
 
 
