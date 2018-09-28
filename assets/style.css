@@ -7,6 +7,10 @@ body {
   font-size: 1.1rem;
 }
 
+.container.page-container {
+  margin-top: 2rem; 
+}
+
 nav.navbar {
   background: #B2AE5D;
 }
