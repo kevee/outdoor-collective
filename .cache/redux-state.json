@@ -1,0 +1,681 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/kevin/Documents/outdoor-collective/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/kevin/Documents/outdoor-collective/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0d9a3efed425a01b2b5cca2dbf9f6182",
+        "description": "Plugin dev-404-page",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d2b715cd3992acd7787079dc26d27ce9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin load-babel-config": {
+      "resolve": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "Plugin load-babel-config",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "4acd00d5e0c701bc628217792e0cfda0",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b5492024b7982ddfbe3f3cb7cd577d78",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "73ac6e06a242eceffc2853d235df7713",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "2b1a48bf3c7634bfffa596ad6be614de",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "3.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "3.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "75da60b682ea3a67e3653a6618bf8078",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-contentful": {
+      "resolve": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby-source-contentful",
+      "id": "Plugin gatsby-source-contentful",
+      "name": "gatsby-source-contentful",
+      "version": "2.0.1",
+      "pluginOptions": {
+        "plugins": [],
+        "spaceId": "c4qbgmrb0ioy",
+        "accessToken": "30a7b7d7979c95c6e8665f55397fe44c95fdd2b56f0f0bb376ed5141d41e1bcb",
+        "host": "cdn.contentful.com",
+        "environment": "master"
+      },
+      "nodeAPIs": [
+        "setFieldsOnGraphQLNodeType",
+        "sourceNodes",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby-source-contentful",
+      "packageJson": {
+        "name": "gatsby-source-contentful",
+        "description": "Gatsby source plugin for building websites using the Contentful CMS as a data source",
+        "version": "2.0.1",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "gatsby-source-plugin"
+        ],
+        "author": {
+          "name": "Marcus Ericsson",
+          "email": "mericsson@gmail.com",
+          "url": "mericsson.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "axios",
+            "version": "^0.18.0"
+          },
+          {
+            "name": "base64-img",
+            "version": "^1.0.3"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "contentful",
+            "version": "^6.1.0"
+          },
+          {
+            "name": "deep-map",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-rc.7"
+          },
+          {
+            "name": "is-online",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "json-stringify-safe",
+            "version": "^5.0.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "qs",
+            "version": "^6.4.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a8befceef1d2d7cb06b7e78b0fd5ffa8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/kevin/Documents/outdoor-collective",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "5b529f476c908d8770a0f0926036d09b",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective",
+      "packageJson": {
+        "name": "outdoor-collective",
+        "description": "",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "ISC",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.11"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "gatsby-source-contentful",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "react",
+            "version": "^16.5.2"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.5.2"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "43d4592e271b669b691f6cc7d56b3f12",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-page-creator": {
+      "resolve": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby-plugin-page-creator",
+      "id": "Plugin gatsby-plugin-page-creator",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.0",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/kevin/Documents/outdoor-collective/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "85066437052881b73f70c0178c381bc2",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Outdoor Collective"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-09-28T03:51:42.394Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "6a634cb00fffae8259a368d4362022aa",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "e498ede0-1f4d-519d-9c16-a39b91add927": {
+      "id": "e498ede0-1f4d-519d-9c16-a39b91add927",
+      "parent": null,
+      "children": [],
+      "name": "Page",
+      "displayField": "title",
+      "description": "",
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "3042203182459741dc0ef05a07d58627",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "68f17abd-e181-5c5c-9b4d-fb1a42a1f0e5": {
+      "id": "68f17abd-e181-5c5c-9b4d-fb1a42a1f0e5",
+      "parent": null,
+      "children": [],
+      "name": "Homepage",
+      "displayField": "mission",
+      "description": "",
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "f60f26d0ecc024f4c902f7dc500bf6df",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "266cde72-1d35-54e2-813e-aab7f3942276": {
+      "id": "266cde72-1d35-54e2-813e-aab7f3942276",
+      "parent": null,
+      "children": [],
+      "name": "Contact",
+      "displayField": "contactLeadIn",
+      "description": "",
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "9a7c978fc78d4cde02edf4ca2ec4c83c",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "eb9d79ec-6c5e-5951-9d1d-6adacab066d5": {
+      "contactLeadIn___NODE": "4111d435-b974-5cfa-90ab-acd4cf9d835e",
+      "mailchimp___NODE": "f3f6bcb5-4814-5b80-ad4b-f138851130f0",
+      "id": "eb9d79ec-6c5e-5951-9d1d-6adacab066d5",
+      "contentful_id": "6He8ncrC24MkcqkOEaQCmQ",
+      "createdAt": "2018-09-28T03:51:37.187Z",
+      "updatedAt": "2018-09-28T03:51:37.187Z",
+      "parent": "Contact",
+      "children": [
+        "4111d435-b974-5cfa-90ab-acd4cf9d835e",
+        "f3f6bcb5-4814-5b80-ad4b-f138851130f0"
+      ],
+      "internal": {
+        "type": "ContentfulContact",
+        "contentDigest": "6e07c1fdb72fbeed6633b7b302cec7bb",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "4111d435-b974-5cfa-90ab-acd4cf9d835e": {
+      "id": "4111d435-b974-5cfa-90ab-acd4cf9d835e",
+      "parent": "eb9d79ec-6c5e-5951-9d1d-6adacab066d5",
+      "children": [],
+      "contactLeadIn": "Please contact us!",
+      "internal": {
+        "type": "contentfulContactContactLeadInTextNode",
+        "mediaType": "text/markdown",
+        "content": "Please contact us!",
+        "contentDigest": "9da0f50fbf8ef7bf875f677e3142af39",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "f3f6bcb5-4814-5b80-ad4b-f138851130f0": {
+      "id": "f3f6bcb5-4814-5b80-ad4b-f138851130f0",
+      "parent": "eb9d79ec-6c5e-5951-9d1d-6adacab066d5",
+      "children": [],
+      "mailchimp": "<div id=\"mc_embed_signup\">\n<form action=\"https://outdoorcollectivemonterey.us19.list-manage.com/subscribe/post?u=76cdc466233d6715483664536&amp;id=7679afd00a\" method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\" class=\"validate\" target=\"_blank\" novalidate=\"novalidate\">\n\n<h2>Subscribe to our mailing list</h2>\n<div class=\"indicates-required\"><span class=\"asterisk\">*</span> indicates required</div>\n<div class=\"mc-field-group form-group\">\n<label for=\"mce-EMAIL\">Email Address  <span class=\"asterisk\">*</span>\n</label>\n<input type=\"email\" value=\"\" name=\"EMAIL\" class=\"form-control required email\" id=\"mce-EMAIL\" aria-required=\"true\" style=\"background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAfBJREFUWAntVk1OwkAUZkoDKza4Utm61iP0AqyIDXahN2BjwiHYGU+gizap4QDuegWN7lyCbMSlCQjU7yO0TOlAi6GwgJc0fT/fzPfmzet0crmD7HsFBAvQbrcrw+Gw5fu+AfOYvgylJ4TwCoVCs1ardYTruqfj8fgV5OUMSVVT93VdP9dAzpVvm5wJHZFbg2LQ2pEYOlZ/oiDvwNcsFoseY4PBwMCrhaeCJyKWZU37KOJcYdi27QdhcuuBIb073BvTNL8ln4NeeR6NRi/wxZKQcGurQs5oNhqLshzVTMBewW/LMU3TTNlO0ieTiStjYhUIyi6DAp0xbEdgTt+LE0aCKQw24U4llsCs4ZRJrYopB6RwqnpA1YQ5NGFZ1YQ41Z5S8IQQdP5laEBRJcD4Vj5DEsW2gE6s6g3d/YP/g+BDnT7GNi2qCjTwGd6riBzHaaCEd3Js01vwCPIbmWBRx1nwAN/1ov+/drgFWIlfKpVukyYihtgkXNp4mABK+1GtVr+SBhJDbBIubVw+Cd/TDgKO2DPiN3YUo6y/nDCNEIsqTKH1en2tcwA9FKEItyDi3aIh8Gl1sRrVnSDzNFDJT1bAy5xpOYGn5fP5JuL95ZjMIn1ya7j5dPGfv0A5eAnpZUY3n5jXcoec5J67D9q+VuAPM47D3XaSeL4AAAAASUVORK5CYII=&quot;); background-repeat: no-repeat; background-attachment: scroll; background-size: 16px 18px; background-position: 98% 50%;\">\n</div>\n<div class=\"mc-field-group form-group\">\n<label for=\"mce-FNAME\">First Name </label>\n<input type=\"text\" value=\"\" name=\"FNAME\" class=\"form-control\" id=\"mce-FNAME\">\n</div>\n<div class=\"mc-field-group form-group\">\n<label for=\"mce-LNAME\">Last Name </label>\n<input type=\"text\" value=\"\" name=\"LNAME\" class=\"form-control\" id=\"mce-LNAME\">\n</div>\n<div id=\"mce-responses\" class=\"clear\">\n  <div class=\"response\" id=\"mce-error-response\" style=\"display:none\"></div>\n  <div class=\"response\" id=\"mce-success-response\" style=\"display:none\"></div>\n</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->\n  <div style=\"position: absolute; left: -5000px;\" aria-hidden=\"true\"><input type=\"text\" name=\"b_76cdc466233d6715483664536_7679afd00a\" tabindex=\"-1\" value=\"\"></div>\n  <div class=\"clear\"><input type=\"submit\" value=\"Subscribe\" name=\"subscribe\" id=\"mc-embedded-subscribe\" class=\"btn btn-primary\"></div>\n  </form></div>",
+      "internal": {
+        "type": "contentfulContactMailchimpTextNode",
+        "mediaType": "text/markdown",
+        "content": "<div id=\"mc_embed_signup\">\n<form action=\"https://outdoorcollectivemonterey.us19.list-manage.com/subscribe/post?u=76cdc466233d6715483664536&amp;id=7679afd00a\" method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\" class=\"validate\" target=\"_blank\" novalidate=\"novalidate\">\n\n<h2>Subscribe to our mailing list</h2>\n<div class=\"indicates-required\"><span class=\"asterisk\">*</span> indicates required</div>\n<div class=\"mc-field-group form-group\">\n<label for=\"mce-EMAIL\">Email Address  <span class=\"asterisk\">*</span>\n</label>\n<input type=\"email\" value=\"\" name=\"EMAIL\" class=\"form-control required email\" id=\"mce-EMAIL\" aria-required=\"true\" style=\"background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAfBJREFUWAntVk1OwkAUZkoDKza4Utm61iP0AqyIDXahN2BjwiHYGU+gizap4QDuegWN7lyCbMSlCQjU7yO0TOlAi6GwgJc0fT/fzPfmzet0crmD7HsFBAvQbrcrw+Gw5fu+AfOYvgylJ4TwCoVCs1ardYTruqfj8fgV5OUMSVVT93VdP9dAzpVvm5wJHZFbg2LQ2pEYOlZ/oiDvwNcsFoseY4PBwMCrhaeCJyKWZU37KOJcYdi27QdhcuuBIb073BvTNL8ln4NeeR6NRi/wxZKQcGurQs5oNhqLshzVTMBewW/LMU3TTNlO0ieTiStjYhUIyi6DAp0xbEdgTt+LE0aCKQw24U4llsCs4ZRJrYopB6RwqnpA1YQ5NGFZ1YQ41Z5S8IQQdP5laEBRJcD4Vj5DEsW2gE6s6g3d/YP/g+BDnT7GNi2qCjTwGd6riBzHaaCEd3Js01vwCPIbmWBRx1nwAN/1ov+/drgFWIlfKpVukyYihtgkXNp4mABK+1GtVr+SBhJDbBIubVw+Cd/TDgKO2DPiN3YUo6y/nDCNEIsqTKH1en2tcwA9FKEItyDi3aIh8Gl1sRrVnSDzNFDJT1bAy5xpOYGn5fP5JuL95ZjMIn1ya7j5dPGfv0A5eAnpZUY3n5jXcoec5J67D9q+VuAPM47D3XaSeL4AAAAASUVORK5CYII=&quot;); background-repeat: no-repeat; background-attachment: scroll; background-size: 16px 18px; background-position: 98% 50%;\">\n</div>\n<div class=\"mc-field-group form-group\">\n<label for=\"mce-FNAME\">First Name </label>\n<input type=\"text\" value=\"\" name=\"FNAME\" class=\"form-control\" id=\"mce-FNAME\">\n</div>\n<div class=\"mc-field-group form-group\">\n<label for=\"mce-LNAME\">Last Name </label>\n<input type=\"text\" value=\"\" name=\"LNAME\" class=\"form-control\" id=\"mce-LNAME\">\n</div>\n<div id=\"mce-responses\" class=\"clear\">\n  <div class=\"response\" id=\"mce-error-response\" style=\"display:none\"></div>\n  <div class=\"response\" id=\"mce-success-response\" style=\"display:none\"></div>\n</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->\n  <div style=\"position: absolute; left: -5000px;\" aria-hidden=\"true\"><input type=\"text\" name=\"b_76cdc466233d6715483664536_7679afd00a\" tabindex=\"-1\" value=\"\"></div>\n  <div class=\"clear\"><input type=\"submit\" value=\"Subscribe\" name=\"subscribe\" id=\"mc-embedded-subscribe\" class=\"btn btn-primary\"></div>\n  </form></div>",
+        "contentDigest": "11eb0df18fde4df4cf0646689d5f1ecb",
+        "owner": "gatsby-source-contentful"
+      }
+    }
+  },
+  "status": {
+    "plugins": {
+      "gatsby-source-contentful": {
+        "c4qbgmrb0ioy-master": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybCoTpBw4kEH1PCmcK1wrN-R8O9SMKVRMOXwr8kcMKWJEccw7DCnDXCk8OfwqnCl0tzcsO3asKZw4HCuiLCqcKPwrgOwqLDp0wMbMOaUh7Cr8KJw4fCrzPCpxABbcKTwoZh"
+      }
+    },
+    "PLUGINS_HASH": "e7b670ee59885eb36882778786f0992b"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "f3f6bcb5-4814-5b80-ad4b-f138851130f0": [
+        "/"
+      ],
+      "4111d435-b974-5cfa-90ab-acd4cf9d835e": [
+        "/"
+      ]
+    },
+    "connections": {}
+  },
+  "jsonDataPaths": {
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E"
+  },
+  "components": {
+    "/Users/kevin/Documents/outdoor-collective/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/Users/kevin/Documents/outdoor-collective/.cache/dev-404-page.js"
+    }
+  },
+  "staticQueryComponents": {}
+}
