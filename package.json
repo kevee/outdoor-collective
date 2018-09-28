@@ -1,0 +1,22 @@
+{
+  "name": "outdoor-collective",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevee/outdoor-collective.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevee/outdoor-collective/issues"
+  },
+  "homepage": "https://github.com/kevee/outdoor-collective#readme",
+  "dependencies": {
+    "gatsby": "^2.0.11"
+  }
+}
