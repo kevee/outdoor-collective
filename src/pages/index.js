@@ -21,11 +21,11 @@ const Homepage = (props) => {
         </div>
       </div>
     </header>
-      <Container>
+      <div className="col-lg-8 col-md-10 mx-auto">
         <p className={css`
         
         `} dangerouslySetInnerHTML={{ __html: page.moreInfo.childMarkdownRemark.html}}/>
-      </Container>
+      </div>
     </Layout>
   )
 }
