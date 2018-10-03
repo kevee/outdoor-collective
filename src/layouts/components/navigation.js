@@ -30,7 +30,7 @@ class Navigation extends React.Component {
 
   render() {
     return (
-      <Navbar color="light" light expand="md">
+      <nav className="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <NavbarToggler onClick={this.toggleNavbar} className="mr-2" />
         <Link to="/" className="navbar-brand">The Outdoor Collective</Link>
           <Collapse isOpen={!this.state.collapsed} navbar>
@@ -43,7 +43,7 @@ class Navigation extends React.Component {
               </NavItem>
             </Nav>
         </Collapse>
-      </Navbar>
+      </nav>
     )
   }
 }

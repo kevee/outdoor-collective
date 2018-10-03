@@ -424,7 +424,8 @@
       "pluginOptions": {
         "plugins": [],
         "fonts": [
-          "roboto"
+          "Lora",
+          "Open+Sans"
         ]
       },
       "nodeAPIs": [],
@@ -459,7 +460,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "7c114dfcd212844b29583f0ba7575f7f",
+        "contentDigest": "e6d1d70459436fbae30cfe4a1f63b9f2",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -584,7 +585,7 @@
       "resolve": "/Users/mill5935/Documents/outdoor-collective",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "ab68a74c7a7530d64aae00d42a0c0776",
+      "version": "ead014aacc2fa8dbb718472e412bb4d7",
       "pluginOptions": {
         "plugins": []
       },
@@ -669,7 +670,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "7f061f5b8f922de69da575b9d8dae847",
+        "contentDigest": "f8462c5631b3f4b7766b5f0cfc7ab3ff",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -777,12 +778,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-10-03T22:55:04.903Z",
+      "buildTime": "2018-10-03T23:27:12.529Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "efe71e8d10b9a34d4f95b7e7641d4144",
+        "contentDigest": "080fc76bebcb0f09e36d3f882d91a6ad",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -873,7 +874,7 @@
       "id": "eb9d79ec-6c5e-5951-9d1d-6adacab066d5",
       "contentful_id": "6He8ncrC24MkcqkOEaQCmQ",
       "createdAt": "2018-09-28T03:51:37.187Z",
-      "updatedAt": "2018-10-03T22:52:14.507Z",
+      "updatedAt": "2018-10-03T23:21:02.531Z",
       "parent": "Contact",
       "children": [
         "4111d435-b974-5cfa-90ab-acd4cf9d835e",
@@ -881,7 +882,7 @@
       ],
       "internal": {
         "type": "ContentfulContact",
-        "contentDigest": "cfd94ad01df7440a34a5b2317af15fc6",
+        "contentDigest": "4bd68f9b6ab078503eb5424e56544196",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
@@ -892,12 +893,12 @@
       "children": [
         "8d7443a0-a027-5e32-90f8-b573f8d52b3f"
       ],
-      "contactLeadIn": "Please contact us!",
+      "contactLeadIn": "Let's get in touch.\n\nSend us an email at [outdoorcollectivemonterey@gmail.com](mailto:outdoorcollectivemonterey@gmail.com)",
       "internal": {
         "type": "contentfulContactContactLeadInTextNode",
         "mediaType": "text/markdown",
-        "content": "Please contact us!",
-        "contentDigest": "9da0f50fbf8ef7bf875f677e3142af39",
+        "content": "Let's get in touch.\n\nSend us an email at [outdoorcollectivemonterey@gmail.com](mailto:outdoorcollectivemonterey@gmail.com)",
+        "contentDigest": "ea4962c18acbd55fcc0c681964d05049",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -1248,9 +1249,9 @@
       "children": [],
       "parent": "4111d435-b974-5cfa-90ab-acd4cf9d835e",
       "internal": {
-        "content": "Please contact us!",
+        "content": "Let's get in touch.\n\nSend us an email at [outdoorcollectivemonterey@gmail.com](mailto:outdoorcollectivemonterey@gmail.com)",
         "type": "MarkdownRemark",
-        "contentDigest": "34ecf594380678360b41320a94001aa3",
+        "contentDigest": "9aca104f30f9cee8f29cd0489f1ee046",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
@@ -1258,7 +1259,7 @@
         "_PARENT": "4111d435-b974-5cfa-90ab-acd4cf9d835e"
       },
       "excerpt": "",
-      "rawMarkdownBody": "Please contact us!"
+      "rawMarkdownBody": "Let's get in touch.\n\nSend us an email at [outdoorcollectivemonterey@gmail.com](mailto:outdoorcollectivemonterey@gmail.com)"
     },
     "7359c7f2-b98d-5dea-abc9-dfdad233126e": {
       "id": "7359c7f2-b98d-5dea-abc9-dfdad233126e",
@@ -1409,13 +1410,22 @@
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "c4qbgmrb0ioy-master": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyYIQcOMVMKsLsKpWcOyNjUiwo7CqGMEdknCk8O5w6gEUMO4fMKMacKCEsOKN8OHw5LCn2kfRV3CpMOmFErDixnChsKjwrtKUMK5w78yOlsUw4rCpMOPKC9yOMKhZA"
+        "c4qbgmrb0ioy-master": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyZNW8KPZcOPIsOdwr8QTUrDksKcw6suw7zDuMKRw5zCnXJiBhUZCFjCszPDu3BjwqjDrEV-Wz3CuwXCrcKGXcKkwqI2UVXDpsKgTMORw7PCmMKYBSTDosOvNSTCucK2wrY"
       }
     },
-    "PLUGINS_HASH": "f180d58223b5f74f73978577461a2eae"
+    "PLUGINS_HASH": "fd441690a2f0e54d84a981913dcda7d5"
   },
   "componentDataDependencies": {
     "nodes": {
+      "4111d435-b974-5cfa-90ab-acd4cf9d835e": [
+        "/contact/"
+      ],
+      "8d7443a0-a027-5e32-90f8-b573f8d52b3f": [
+        "/contact/"
+      ],
+      "f3f6bcb5-4814-5b80-ad4b-f138851130f0": [
+        "/contact/"
+      ],
       "c3be3428-d183-5345-9047-613cbec6b51d": [
         "/"
       ],
@@ -1463,29 +1473,17 @@
       ],
       "ec1478d0-411b-5167-9135-b955081ae588": [
         "/trainings/"
-      ],
-      "4111d435-b974-5cfa-90ab-acd4cf9d835e": [
-        "/",
-        "/contact/"
-      ],
-      "8d7443a0-a027-5e32-90f8-b573f8d52b3f": [
-        "/",
-        "/contact/"
-      ],
-      "f3f6bcb5-4814-5b80-ad4b-f138851130f0": [
-        "/",
-        "/contact/"
       ]
     },
     "connections": {
+      "ContentfulContact": [
+        "/contact/"
+      ],
       "ContentfulHomepage": [
         "/"
       ],
       "ContentfulTrainings": [
         "/trainings/"
-      ],
-      "ContentfulContact": [
-        "/contact/"
       ]
     }
   },
@@ -1493,7 +1491,7 @@
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
     "index": "157/path---index-6a9-JvuD5hTSbUSssajI2lcTAVsfQQ",
     "trainings-44a": "789/path---trainings-44-a-c8e-yny1D3CzxipbNNp13hNCzmsGz9w",
-    "contact-26a": "218/path---contact-26-a-cd9-oPMX5Z9Se4p5URC8CDve8ktzSgQ"
+    "contact-26a": "216/path---contact-26-a-cd9-qbe3jzYpkOsqrgEMPlKB2WphsY"
   },
   "components": {
     "/Users/mill5935/Documents/outdoor-collective/.cache/dev-404-page.js": {

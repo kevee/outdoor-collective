@@ -8,15 +8,19 @@ const Homepage = (props) => {
   const page = props.data.allContentfulHomepage.edges[0].node
   return (
     <Layout>
-      <div className={css`
-        background-image: url(${page.largeImage.fluid.src});
-        background-repeat: no-repeat;
-        background-position: center;
-        background-size:cover;
-        background-attachment: fixed;
-        height: 75vh;
-    `}>
-    </div>
+      <header className="masthead" style={{backgroundImage: `url('${page.largeImage.fluid.src}`}}>
+      <div className="overlay"></div>
+      <div className="container">
+        <div className="row">
+          <div className="col-lg-8 col-md-10 mx-auto">
+            <div className="site-heading">
+              <h1>Outdoor collective</h1>
+              <span className="subheading">We envision a community with equitable access to nature and a shared commitment to conserve it.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
       <Container>
         <p className={css`
         

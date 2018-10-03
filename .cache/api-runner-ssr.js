@@ -3,7 +3,7 @@ var plugins = [{
       options: {"plugins":[]},
     },{
       plugin: require('/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby-plugin-google-fonts/gatsby-ssr'),
-      options: {"plugins":[],"fonts":["roboto"]},
+      options: {"plugins":[],"fonts":["Lora","Open+Sans"]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [
