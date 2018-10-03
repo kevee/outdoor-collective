@@ -5,6 +5,15 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
+    `gatsby-transformer-remark`,
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [
+          `roboto`
+        ]
+      }
+    },
     {
       resolve: `gatsby-source-contentful`,
       options: {

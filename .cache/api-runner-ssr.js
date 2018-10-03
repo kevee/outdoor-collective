@@ -1,6 +1,9 @@
 var plugins = [{
-      plugin: require('/Users/kevin/Documents/outdoor-collective/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
+    },{
+      plugin: require('/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby-plugin-google-fonts/gatsby-ssr'),
+      options: {"plugins":[],"fonts":["roboto"]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [

@@ -4,24 +4,24 @@
       "jsonName": "dev-404-page-5f9",
       "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/kevin/Documents/outdoor-collective/.cache/dev-404-page.js",
+      "component": "/Users/mill5935/Documents/outdoor-collective/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/kevin/Documents/outdoor-collective/.cache/dev-404-page.js",
+      "componentPath": "/Users/mill5935/Documents/outdoor-collective/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0d9a3efed425a01b2b5cca2dbf9f6182",
+        "contentDigest": "5642d0649a5a7d649eaab49e73cde70e",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -33,7 +33,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -50,13 +50,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d2b715cd3992acd7787079dc26d27ce9",
+        "contentDigest": "b3ca4e364f04b2214d3288446052d69c",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin load-babel-config": {
-      "resolve": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "resolve": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "id": "Plugin load-babel-config",
       "name": "load-babel-config",
       "version": "1.0.0",
@@ -68,7 +68,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "pluginFilepath": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "packageJson": {
         "name": "load-babel-config",
         "description": "Internal plugin that handles loading Babel configs",
@@ -85,13 +85,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4acd00d5e0c701bc628217792e0cfda0",
+        "contentDigest": "7d28701bc0949fd6fb5a035a8322c3a4",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -104,7 +104,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -121,13 +121,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "b5492024b7982ddfbe3f3cb7cd577d78",
+        "contentDigest": "44e80c18010da664ea289cbf2171249c",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -139,7 +139,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -156,13 +156,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "73ac6e06a242eceffc2853d235df7713",
+        "contentDigest": "c7583f40d160edefca681b5e2842920a",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -174,7 +174,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -191,13 +191,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "2b1a48bf3c7634bfffa596ad6be614de",
+        "contentDigest": "2a40d91bfed43279875d8747eb674c7f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
       "version": "3.0.0",
@@ -209,7 +209,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
@@ -272,13 +272,200 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "75da60b682ea3a67e3653a6618bf8078",
+        "contentDigest": "3b9e9130991d5115e440605577b58ca9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "2.1.6",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "2.1.6",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.18.2"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.2"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ca4c0e7e6ce8f1c986ed095d1a1b6ad9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-google-fonts": {
+      "resolve": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby-plugin-google-fonts",
+      "id": "Plugin gatsby-plugin-google-fonts",
+      "name": "gatsby-plugin-google-fonts",
+      "version": "0.0.4",
+      "pluginOptions": {
+        "plugins": [],
+        "fonts": [
+          "roboto"
+        ]
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby-plugin-google-fonts",
+      "packageJson": {
+        "name": "gatsby-plugin-google-fonts",
+        "description": "Bring Google Fonts to Gatsby",
+        "version": "0.0.4",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gastby-plugin",
+          "react",
+          "google",
+          "fonts"
+        ],
+        "author": {
+          "name": "Didier Franc",
+          "email": "dev@didierfranc.com"
+        },
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "7c114dfcd212844b29583f0ba7575f7f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-source-contentful": {
-      "resolve": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby-source-contentful",
+      "resolve": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby-source-contentful",
       "id": "Plugin gatsby-source-contentful",
       "name": "gatsby-source-contentful",
       "version": "2.0.1",
@@ -296,7 +483,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby-source-contentful",
+      "pluginFilepath": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby-source-contentful",
       "packageJson": {
         "name": "gatsby-source-contentful",
         "description": "Gatsby source plugin for building websites using the Contentful CMS as a data source",
@@ -388,23 +575,23 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a8befceef1d2d7cb06b7e78b0fd5ffa8",
+        "contentDigest": "df087724d6ec3bb3bfcb89b02a1746b1",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "/Users/kevin/Documents/outdoor-collective",
+      "resolve": "/Users/mill5935/Documents/outdoor-collective",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "5b529f476c908d8770a0f0926036d09b",
+      "version": "ab68a74c7a7530d64aae00d42a0c0776",
       "pluginOptions": {
         "plugins": []
       },
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective",
+      "pluginFilepath": "/Users/mill5935/Documents/outdoor-collective",
       "packageJson": {
         "name": "outdoor-collective",
         "description": "",
@@ -414,8 +601,24 @@
         "license": "ISC",
         "dependencies": [
           {
+            "name": "@material-ui/core",
+            "version": "^3.1.2"
+          },
+          {
+            "name": "bootstrap",
+            "version": "^4.1.3"
+          },
+          {
+            "name": "emotion",
+            "version": "^9.2.12"
+          },
+          {
             "name": "gatsby",
             "version": "^2.0.11"
+          },
+          {
+            "name": "gatsby-plugin-google-fonts",
+            "version": "0.0.4"
           },
           {
             "name": "gatsby-plugin-react-helmet",
@@ -426,6 +629,10 @@
             "version": "^2.0.1"
           },
           {
+            "name": "gatsby-transformer-remark",
+            "version": "^2.1.6"
+          },
+          {
             "name": "react",
             "version": "^16.5.2"
           },
@@ -434,8 +641,16 @@
             "version": "^16.5.2"
           },
           {
+            "name": "react-emotion",
+            "version": "^9.2.12"
+          },
+          {
             "name": "react-helmet",
             "version": "^5.2.0"
+          },
+          {
+            "name": "reactstrap",
+            "version": "^6.4.0"
           }
         ],
         "devDependencies": [],
@@ -446,19 +661,19 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "43d4592e271b669b691f6cc7d56b3f12",
+        "contentDigest": "7f061f5b8f922de69da575b9d8dae847",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-page-creator": {
-      "resolve": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby-plugin-page-creator",
+      "resolve": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby-plugin-page-creator",
       "id": "Plugin gatsby-plugin-page-creator",
       "name": "gatsby-plugin-page-creator",
       "version": "2.0.0",
       "pluginOptions": {
         "plugins": [],
-        "path": "/Users/kevin/Documents/outdoor-collective/src/pages",
+        "path": "/Users/mill5935/Documents/outdoor-collective/src/pages",
         "pathCheck": false
       },
       "nodeAPIs": [
@@ -466,7 +681,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby-plugin-page-creator",
+      "pluginFilepath": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby-plugin-page-creator",
       "packageJson": {
         "name": "gatsby-plugin-page-creator",
         "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
@@ -541,7 +756,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "85066437052881b73f70c0178c381bc2",
+        "contentDigest": "8d803cd93a093ab4c5a6a7c2792d1afa",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -554,12 +769,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-09-28T03:51:42.394Z",
+      "buildTime": "2018-10-03T22:19:45.093Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "6a634cb00fffae8259a368d4362022aa",
+        "contentDigest": "83f4ead87af47c668fa2f60126539a96",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -587,6 +802,47 @@
       "internal": {
         "type": "ContentfulContentType",
         "contentDigest": "f60f26d0ecc024f4c902f7dc500bf6df",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "4def2167-ad13-5010-a1b1-3bfad4a3f408": {
+      "mission": "We are a network of local educators, outdoor enthusiasts and youth allies who reduce barriers and expand opportunities to get youth outdoors in Monterey County.",
+      "largeImage___NODE": "e0223e71-1009-52a7-81a4-0275911fb897",
+      "gallery___NODE": [
+        "1b2ad8c1-c9f6-5d9f-898f-214674276d6b",
+        "4927854f-aa49-5391-a6c0-ff1369f7adce",
+        "d9d561fe-878e-51fb-818d-a66125b2977a",
+        "99938b85-4eb4-5e58-a5c4-93f07191556d",
+        "443d38f2-8d52-56e7-b50e-5aeab4dd0e27"
+      ],
+      "moreInfo___NODE": "c3be3428-d183-5345-9047-613cbec6b51d",
+      "id": "4def2167-ad13-5010-a1b1-3bfad4a3f408",
+      "contentful_id": "5TGtHD5idUEwOqGUW6kCgC",
+      "createdAt": "2018-10-03T18:29:00.674Z",
+      "updatedAt": "2018-10-03T18:29:00.674Z",
+      "parent": "Homepage",
+      "children": [
+        "c3be3428-d183-5345-9047-613cbec6b51d"
+      ],
+      "internal": {
+        "type": "ContentfulHomepage",
+        "contentDigest": "c1985aed60d306713149d11e4f9b2f3f",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c3be3428-d183-5345-9047-613cbec6b51d": {
+      "id": "c3be3428-d183-5345-9047-613cbec6b51d",
+      "parent": "4def2167-ad13-5010-a1b1-3bfad4a3f408",
+      "children": [
+        "043ad172-8e8e-5a07-9b1e-0a8d9e3fb7cb"
+      ],
+      "moreInfo": "We work by supporting collaboration among youth-serving organizations and park and open space groups to create shared outdoor education resources.\n\n- Encourage support and collaboration among outdoor education and youth-serving organizations by gathering regularly.\n- Set up a lending library for outdoor gear, and training for youth leaders to borrow camping equipment and other outdoor gear.",
+      "internal": {
+        "type": "contentfulHomepageMoreInfoTextNode",
+        "mediaType": "text/markdown",
+        "content": "We work by supporting collaboration among youth-serving organizations and park and open space groups to create shared outdoor education resources.\n\n- Encourage support and collaboration among outdoor education and youth-serving organizations by gathering regularly.\n- Set up a lending library for outdoor gear, and training for youth leaders to borrow camping equipment and other outdoor gear.",
+        "contentDigest": "353ffad2939c7de204f210fc0e38fc97",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -625,7 +881,9 @@
     "4111d435-b974-5cfa-90ab-acd4cf9d835e": {
       "id": "4111d435-b974-5cfa-90ab-acd4cf9d835e",
       "parent": "eb9d79ec-6c5e-5951-9d1d-6adacab066d5",
-      "children": [],
+      "children": [
+        "8d7443a0-a027-5e32-90f8-b573f8d52b3f"
+      ],
       "contactLeadIn": "Please contact us!",
       "internal": {
         "type": "contentfulContactContactLeadInTextNode",
@@ -638,7 +896,9 @@
     "f3f6bcb5-4814-5b80-ad4b-f138851130f0": {
       "id": "f3f6bcb5-4814-5b80-ad4b-f138851130f0",
       "parent": "eb9d79ec-6c5e-5951-9d1d-6adacab066d5",
-      "children": [],
+      "children": [
+        "7359c7f2-b98d-5dea-abc9-dfdad233126e"
+      ],
       "mailchimp": "<div id=\"mc_embed_signup\">\n<form action=\"https://outdoorcollectivemonterey.us19.list-manage.com/subscribe/post?u=76cdc466233d6715483664536&amp;id=7679afd00a\" method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\" class=\"validate\" target=\"_blank\" novalidate=\"novalidate\">\n\n<h2>Subscribe to our mailing list</h2>\n<div class=\"indicates-required\"><span class=\"asterisk\">*</span> indicates required</div>\n<div class=\"mc-field-group form-group\">\n<label for=\"mce-EMAIL\">Email Address  <span class=\"asterisk\">*</span>\n</label>\n<input type=\"email\" value=\"\" name=\"EMAIL\" class=\"form-control required email\" id=\"mce-EMAIL\" aria-required=\"true\" style=\"background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAfBJREFUWAntVk1OwkAUZkoDKza4Utm61iP0AqyIDXahN2BjwiHYGU+gizap4QDuegWN7lyCbMSlCQjU7yO0TOlAi6GwgJc0fT/fzPfmzet0crmD7HsFBAvQbrcrw+Gw5fu+AfOYvgylJ4TwCoVCs1ardYTruqfj8fgV5OUMSVVT93VdP9dAzpVvm5wJHZFbg2LQ2pEYOlZ/oiDvwNcsFoseY4PBwMCrhaeCJyKWZU37KOJcYdi27QdhcuuBIb073BvTNL8ln4NeeR6NRi/wxZKQcGurQs5oNhqLshzVTMBewW/LMU3TTNlO0ieTiStjYhUIyi6DAp0xbEdgTt+LE0aCKQw24U4llsCs4ZRJrYopB6RwqnpA1YQ5NGFZ1YQ41Z5S8IQQdP5laEBRJcD4Vj5DEsW2gE6s6g3d/YP/g+BDnT7GNi2qCjTwGd6riBzHaaCEd3Js01vwCPIbmWBRx1nwAN/1ov+/drgFWIlfKpVukyYihtgkXNp4mABK+1GtVr+SBhJDbBIubVw+Cd/TDgKO2DPiN3YUo6y/nDCNEIsqTKH1en2tcwA9FKEItyDi3aIh8Gl1sRrVnSDzNFDJT1bAy5xpOYGn5fP5JuL95ZjMIn1ya7j5dPGfv0A5eAnpZUY3n5jXcoec5J67D9q+VuAPM47D3XaSeL4AAAAASUVORK5CYII=&quot;); background-repeat: no-repeat; background-attachment: scroll; background-size: 16px 18px; background-position: 98% 50%;\">\n</div>\n<div class=\"mc-field-group form-group\">\n<label for=\"mce-FNAME\">First Name </label>\n<input type=\"text\" value=\"\" name=\"FNAME\" class=\"form-control\" id=\"mce-FNAME\">\n</div>\n<div class=\"mc-field-group form-group\">\n<label for=\"mce-LNAME\">Last Name </label>\n<input type=\"text\" value=\"\" name=\"LNAME\" class=\"form-control\" id=\"mce-LNAME\">\n</div>\n<div id=\"mce-responses\" class=\"clear\">\n  <div class=\"response\" id=\"mce-error-response\" style=\"display:none\"></div>\n  <div class=\"response\" id=\"mce-success-response\" style=\"display:none\"></div>\n</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->\n  <div style=\"position: absolute; left: -5000px;\" aria-hidden=\"true\"><input type=\"text\" name=\"b_76cdc466233d6715483664536_7679afd00a\" tabindex=\"-1\" value=\"\"></div>\n  <div class=\"clear\"><input type=\"submit\" value=\"Subscribe\" name=\"subscribe\" id=\"mc-embedded-subscribe\" class=\"btn btn-primary\"></div>\n  </form></div>",
       "internal": {
         "type": "contentfulContactMailchimpTextNode",
@@ -647,34 +907,570 @@
         "contentDigest": "11eb0df18fde4df4cf0646689d5f1ecb",
         "owner": "gatsby-source-contentful"
       }
+    },
+    "76bb62fb-d5f7-5985-b445-6f9bcf114efc": {
+      "id": "76bb62fb-d5f7-5985-b445-6f9bcf114efc",
+      "parent": null,
+      "children": [],
+      "name": "Trainings",
+      "displayField": "title",
+      "description": "",
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "fd093b9379c48c766b9f9926fd6217cb",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "e0223e71-1009-52a7-81a4-0275911fb897": {
+      "contentful_id": "6XW1f3hA1quU0YeKwkQaW4",
+      "id": "e0223e71-1009-52a7-81a4-0275911fb897",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.ctfassets.net/c4qbgmrb0ioy/6XW1f3hA1quU0YeKwkQaW4/001a7c80563f3567ed47cd0ef7729fcb/IMG_6332.JPG",
+        "details": {
+          "size": 3488105,
+          "image": {
+            "width": 3264,
+            "height": 2448
+          }
+        },
+        "fileName": "IMG_6332.JPG",
+        "contentType": "image/jpeg"
+      },
+      "title": "IMG 6332",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "4654234568d2ce437fbf9d9434e27006",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "443d38f2-8d52-56e7-b50e-5aeab4dd0e27": {
+      "contentful_id": "1GwHyUoLuEeikEoKg0CwkI",
+      "id": "443d38f2-8d52-56e7-b50e-5aeab4dd0e27",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.ctfassets.net/c4qbgmrb0ioy/1GwHyUoLuEeikEoKg0CwkI/58f9a2482a8162a55efef0c9240bd29b/IMG_4207.JPG",
+        "details": {
+          "size": 4252356,
+          "image": {
+            "width": 4000,
+            "height": 3000
+          }
+        },
+        "fileName": "IMG_4207.JPG",
+        "contentType": "image/jpeg"
+      },
+      "title": "IMG 6332",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "963c50e10814ff40ee2a9380829aa704",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "99938b85-4eb4-5e58-a5c4-93f07191556d": {
+      "contentful_id": "6t1KoxFlYWaIwsyWAyse8K",
+      "id": "99938b85-4eb4-5e58-a5c4-93f07191556d",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.ctfassets.net/c4qbgmrb0ioy/6t1KoxFlYWaIwsyWAyse8K/32ee7f61618b7d464adab60131f2040a/IMG_6332.JPG",
+        "details": {
+          "size": 3488105,
+          "image": {
+            "width": 3264,
+            "height": 2448
+          }
+        },
+        "fileName": "IMG_6332.JPG",
+        "contentType": "image/jpeg"
+      },
+      "title": "IMG 6332",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "1496ffa4317aba47cd79e09b75ee77ac",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "d9d561fe-878e-51fb-818d-a66125b2977a": {
+      "contentful_id": "437J9eSTUkAWOOEeeCmO6o",
+      "id": "d9d561fe-878e-51fb-818d-a66125b2977a",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.ctfassets.net/c4qbgmrb0ioy/437J9eSTUkAWOOEeeCmO6o/02fc66908f954aaeaefd371451cbaf0d/IMG_7162.JPG",
+        "details": {
+          "size": 2887873,
+          "image": {
+            "width": 3264,
+            "height": 2448
+          }
+        },
+        "fileName": "IMG_7162.JPG",
+        "contentType": "image/jpeg"
+      },
+      "title": "IMG 7162",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "b0297670026543efeafea79a6007b16f",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "4927854f-aa49-5391-a6c0-ff1369f7adce": {
+      "contentful_id": "1OiWcACXYMGqeAewQOwGym",
+      "id": "4927854f-aa49-5391-a6c0-ff1369f7adce",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.ctfassets.net/c4qbgmrb0ioy/1OiWcACXYMGqeAewQOwGym/1c13df19fd44b6fca55bfbc0f2197e2f/IMG_7247.JPG",
+        "details": {
+          "size": 3491716,
+          "image": {
+            "width": 3264,
+            "height": 2448
+          }
+        },
+        "fileName": "IMG_7247.JPG",
+        "contentType": "image/jpeg"
+      },
+      "title": "IMG 7247",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "4232cc5d95bb3e3b588e0d0527ddf6bd",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "1b2ad8c1-c9f6-5d9f-898f-214674276d6b": {
+      "contentful_id": "zaT06zOYecGwEwY2eWwIA",
+      "id": "1b2ad8c1-c9f6-5d9f-898f-214674276d6b",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.ctfassets.net/c4qbgmrb0ioy/zaT06zOYecGwEwY2eWwIA/4c7bb2b0360828aaf4154a562976f27b/info-cover.jpg",
+        "details": {
+          "size": 1210167,
+          "image": {
+            "width": 1400,
+            "height": 557
+          }
+        },
+        "fileName": "info-cover.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "info-cover",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "4836f2171f4a2f26f372c64d940989a2",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "cc928894-1cb8-557e-8908-d7d293689aa5": {
+      "contentful_id": "1I89mjO7h6YO808mYUgGI6",
+      "id": "cc928894-1cb8-557e-8908-d7d293689aa5",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.ctfassets.net/c4qbgmrb0ioy/1I89mjO7h6YO808mYUgGI6/7739e8d792c7f007eed347a27bc8857b/cover.jpg",
+        "details": {
+          "size": 496038,
+          "image": {
+            "width": 1400,
+            "height": 603
+          }
+        },
+        "fileName": "cover.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "cover",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "3fc2781eb6aeaf797c1ad23a85e909b7",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "043ad172-8e8e-5a07-9b1e-0a8d9e3fb7cb": {
+      "id": "043ad172-8e8e-5a07-9b1e-0a8d9e3fb7cb",
+      "children": [],
+      "parent": "c3be3428-d183-5345-9047-613cbec6b51d",
+      "internal": {
+        "content": "We work by supporting collaboration among youth-serving organizations and park and open space groups to create shared outdoor education resources.\n\n- Encourage support and collaboration among outdoor education and youth-serving organizations by gathering regularly.\n- Set up a lending library for outdoor gear, and training for youth leaders to borrow camping equipment and other outdoor gear.",
+        "type": "MarkdownRemark",
+        "contentDigest": "223c7f02aa05cdc9239f89de4b716b8d",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c3be3428-d183-5345-9047-613cbec6b51d"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "We work by supporting collaboration among youth-serving organizations and park and open space groups to create shared outdoor education resources.\n\n- Encourage support and collaboration among outdoor education and youth-serving organizations by gathering regularly.\n- Set up a lending library for outdoor gear, and training for youth leaders to borrow camping equipment and other outdoor gear."
+    },
+    "8d7443a0-a027-5e32-90f8-b573f8d52b3f": {
+      "id": "8d7443a0-a027-5e32-90f8-b573f8d52b3f",
+      "children": [],
+      "parent": "4111d435-b974-5cfa-90ab-acd4cf9d835e",
+      "internal": {
+        "content": "Please contact us!",
+        "type": "MarkdownRemark",
+        "contentDigest": "34ecf594380678360b41320a94001aa3",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "4111d435-b974-5cfa-90ab-acd4cf9d835e"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Please contact us!"
+    },
+    "7359c7f2-b98d-5dea-abc9-dfdad233126e": {
+      "id": "7359c7f2-b98d-5dea-abc9-dfdad233126e",
+      "children": [],
+      "parent": "f3f6bcb5-4814-5b80-ad4b-f138851130f0",
+      "internal": {
+        "content": "<div id=\"mc_embed_signup\">\n<form action=\"https://outdoorcollectivemonterey.us19.list-manage.com/subscribe/post?u=76cdc466233d6715483664536&amp;id=7679afd00a\" method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\" class=\"validate\" target=\"_blank\" novalidate=\"novalidate\">\n\n<h2>Subscribe to our mailing list</h2>\n<div class=\"indicates-required\"><span class=\"asterisk\">*</span> indicates required</div>\n<div class=\"mc-field-group form-group\">\n<label for=\"mce-EMAIL\">Email Address  <span class=\"asterisk\">*</span>\n</label>\n<input type=\"email\" value=\"\" name=\"EMAIL\" class=\"form-control required email\" id=\"mce-EMAIL\" aria-required=\"true\" style=\"background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAfBJREFUWAntVk1OwkAUZkoDKza4Utm61iP0AqyIDXahN2BjwiHYGU+gizap4QDuegWN7lyCbMSlCQjU7yO0TOlAi6GwgJc0fT/fzPfmzet0crmD7HsFBAvQbrcrw+Gw5fu+AfOYvgylJ4TwCoVCs1ardYTruqfj8fgV5OUMSVVT93VdP9dAzpVvm5wJHZFbg2LQ2pEYOlZ/oiDvwNcsFoseY4PBwMCrhaeCJyKWZU37KOJcYdi27QdhcuuBIb073BvTNL8ln4NeeR6NRi/wxZKQcGurQs5oNhqLshzVTMBewW/LMU3TTNlO0ieTiStjYhUIyi6DAp0xbEdgTt+LE0aCKQw24U4llsCs4ZRJrYopB6RwqnpA1YQ5NGFZ1YQ41Z5S8IQQdP5laEBRJcD4Vj5DEsW2gE6s6g3d/YP/g+BDnT7GNi2qCjTwGd6riBzHaaCEd3Js01vwCPIbmWBRx1nwAN/1ov+/drgFWIlfKpVukyYihtgkXNp4mABK+1GtVr+SBhJDbBIubVw+Cd/TDgKO2DPiN3YUo6y/nDCNEIsqTKH1en2tcwA9FKEItyDi3aIh8Gl1sRrVnSDzNFDJT1bAy5xpOYGn5fP5JuL95ZjMIn1ya7j5dPGfv0A5eAnpZUY3n5jXcoec5J67D9q+VuAPM47D3XaSeL4AAAAASUVORK5CYII=&quot;); background-repeat: no-repeat; background-attachment: scroll; background-size: 16px 18px; background-position: 98% 50%;\">\n</div>\n<div class=\"mc-field-group form-group\">\n<label for=\"mce-FNAME\">First Name </label>\n<input type=\"text\" value=\"\" name=\"FNAME\" class=\"form-control\" id=\"mce-FNAME\">\n</div>\n<div class=\"mc-field-group form-group\">\n<label for=\"mce-LNAME\">Last Name </label>\n<input type=\"text\" value=\"\" name=\"LNAME\" class=\"form-control\" id=\"mce-LNAME\">\n</div>\n<div id=\"mce-responses\" class=\"clear\">\n  <div class=\"response\" id=\"mce-error-response\" style=\"display:none\"></div>\n  <div class=\"response\" id=\"mce-success-response\" style=\"display:none\"></div>\n</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->\n  <div style=\"position: absolute; left: -5000px;\" aria-hidden=\"true\"><input type=\"text\" name=\"b_76cdc466233d6715483664536_7679afd00a\" tabindex=\"-1\" value=\"\"></div>\n  <div class=\"clear\"><input type=\"submit\" value=\"Subscribe\" name=\"subscribe\" id=\"mc-embedded-subscribe\" class=\"btn btn-primary\"></div>\n  </form></div>",
+        "type": "MarkdownRemark",
+        "contentDigest": "99ad50e520d8b20aa09f6379f1f2ebef",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "f3f6bcb5-4814-5b80-ad4b-f138851130f0"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "<div id=\"mc_embed_signup\">\n<form action=\"https://outdoorcollectivemonterey.us19.list-manage.com/subscribe/post?u=76cdc466233d6715483664536&amp;id=7679afd00a\" method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\" class=\"validate\" target=\"_blank\" novalidate=\"novalidate\">\n\n<h2>Subscribe to our mailing list</h2>\n<div class=\"indicates-required\"><span class=\"asterisk\">*</span> indicates required</div>\n<div class=\"mc-field-group form-group\">\n<label for=\"mce-EMAIL\">Email Address  <span class=\"asterisk\">*</span>\n</label>\n<input type=\"email\" value=\"\" name=\"EMAIL\" class=\"form-control required email\" id=\"mce-EMAIL\" aria-required=\"true\" style=\"background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAfBJREFUWAntVk1OwkAUZkoDKza4Utm61iP0AqyIDXahN2BjwiHYGU+gizap4QDuegWN7lyCbMSlCQjU7yO0TOlAi6GwgJc0fT/fzPfmzet0crmD7HsFBAvQbrcrw+Gw5fu+AfOYvgylJ4TwCoVCs1ardYTruqfj8fgV5OUMSVVT93VdP9dAzpVvm5wJHZFbg2LQ2pEYOlZ/oiDvwNcsFoseY4PBwMCrhaeCJyKWZU37KOJcYdi27QdhcuuBIb073BvTNL8ln4NeeR6NRi/wxZKQcGurQs5oNhqLshzVTMBewW/LMU3TTNlO0ieTiStjYhUIyi6DAp0xbEdgTt+LE0aCKQw24U4llsCs4ZRJrYopB6RwqnpA1YQ5NGFZ1YQ41Z5S8IQQdP5laEBRJcD4Vj5DEsW2gE6s6g3d/YP/g+BDnT7GNi2qCjTwGd6riBzHaaCEd3Js01vwCPIbmWBRx1nwAN/1ov+/drgFWIlfKpVukyYihtgkXNp4mABK+1GtVr+SBhJDbBIubVw+Cd/TDgKO2DPiN3YUo6y/nDCNEIsqTKH1en2tcwA9FKEItyDi3aIh8Gl1sRrVnSDzNFDJT1bAy5xpOYGn5fP5JuL95ZjMIn1ya7j5dPGfv0A5eAnpZUY3n5jXcoec5J67D9q+VuAPM47D3XaSeL4AAAAASUVORK5CYII=&quot;); background-repeat: no-repeat; background-attachment: scroll; background-size: 16px 18px; background-position: 98% 50%;\">\n</div>\n<div class=\"mc-field-group form-group\">\n<label for=\"mce-FNAME\">First Name </label>\n<input type=\"text\" value=\"\" name=\"FNAME\" class=\"form-control\" id=\"mce-FNAME\">\n</div>\n<div class=\"mc-field-group form-group\">\n<label for=\"mce-LNAME\">Last Name </label>\n<input type=\"text\" value=\"\" name=\"LNAME\" class=\"form-control\" id=\"mce-LNAME\">\n</div>\n<div id=\"mce-responses\" class=\"clear\">\n  <div class=\"response\" id=\"mce-error-response\" style=\"display:none\"></div>\n  <div class=\"response\" id=\"mce-success-response\" style=\"display:none\"></div>\n</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->\n  <div style=\"position: absolute; left: -5000px;\" aria-hidden=\"true\"><input type=\"text\" name=\"b_76cdc466233d6715483664536_7679afd00a\" tabindex=\"-1\" value=\"\"></div>\n  <div class=\"clear\"><input type=\"submit\" value=\"Subscribe\" name=\"subscribe\" id=\"mc-embedded-subscribe\" class=\"btn btn-primary\"></div>\n  </form></div>"
+    },
+    "a62e1053-5d8c-5d56-acaa-7517c7f78cb2": {
+      "title": "Frontcountry Leadership Training",
+      "dateTime": "2018-10-16T09:00-07:00",
+      "location___NODE": "1794b8b6-c96d-5afa-b143-7d48bdbc2683",
+      "moreInformation___NODE": "12858f2a-afba-5603-9dd6-8661a922fe87",
+      "id": "a62e1053-5d8c-5d56-acaa-7517c7f78cb2",
+      "contentful_id": "4v2uclNYEgSaoSQ0ssM4mU",
+      "createdAt": "2018-10-03T22:16:14.980Z",
+      "updatedAt": "2018-10-03T22:16:41.650Z",
+      "parent": "Trainings",
+      "children": [
+        "1794b8b6-c96d-5afa-b143-7d48bdbc2683",
+        "12858f2a-afba-5603-9dd6-8661a922fe87"
+      ],
+      "internal": {
+        "type": "ContentfulTrainings",
+        "contentDigest": "7ef6104468f999b529a27fad9830126c",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "1794b8b6-c96d-5afa-b143-7d48bdbc2683": {
+      "id": "1794b8b6-c96d-5afa-b143-7d48bdbc2683",
+      "parent": "a62e1053-5d8c-5d56-acaa-7517c7f78cb2",
+      "children": [
+        "3ea15171-9656-573d-a0c1-e5afa3cbd18e"
+      ],
+      "location": "Location!",
+      "internal": {
+        "type": "contentfulTrainingsLocationTextNode",
+        "mediaType": "text/markdown",
+        "content": "Location!",
+        "contentDigest": "8af7e8bc2c64a34863c8a5de66d71925",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "12858f2a-afba-5603-9dd6-8661a922fe87": {
+      "id": "12858f2a-afba-5603-9dd6-8661a922fe87",
+      "parent": "a62e1053-5d8c-5d56-acaa-7517c7f78cb2",
+      "children": [
+        "9dc013e5-641f-5d5d-b7ff-96a661a8fbae"
+      ],
+      "moreInformation": "__More info!__",
+      "internal": {
+        "type": "contentfulTrainingsMoreInformationTextNode",
+        "mediaType": "text/markdown",
+        "content": "__More info!__",
+        "contentDigest": "78af6401cb0358bd34e287d821a4b736",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "5dcec889-61af-5f91-8955-c8b3a47a8b1a": {
+      "id": "5dcec889-61af-5f91-8955-c8b3a47a8b1a",
+      "parent": null,
+      "children": [],
+      "name": "Navigation",
+      "displayField": null,
+      "description": "",
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "2bfa188d6e9c1d68f200bce5707fed46",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "3ea15171-9656-573d-a0c1-e5afa3cbd18e": {
+      "id": "3ea15171-9656-573d-a0c1-e5afa3cbd18e",
+      "children": [],
+      "parent": "1794b8b6-c96d-5afa-b143-7d48bdbc2683",
+      "internal": {
+        "content": "Location!",
+        "type": "MarkdownRemark",
+        "contentDigest": "1a7b3e52900fcd1f6c637776741f1d59",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "1794b8b6-c96d-5afa-b143-7d48bdbc2683"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Location!"
+    },
+    "9dc013e5-641f-5d5d-b7ff-96a661a8fbae": {
+      "id": "9dc013e5-641f-5d5d-b7ff-96a661a8fbae",
+      "children": [],
+      "parent": "12858f2a-afba-5603-9dd6-8661a922fe87",
+      "internal": {
+        "content": "__More info!__",
+        "type": "MarkdownRemark",
+        "contentDigest": "01af48d252fba7809005b36e0d3443a2",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "12858f2a-afba-5603-9dd6-8661a922fe87"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "__More info!__"
+    },
+    "36b0839d-a03f-5fed-96bb-ef6c5a2e3320": {
+      "title": "Frontcountry Leadership Training",
+      "dateTime": "2018-10-30T09:00-07:00",
+      "location___NODE": "b705e1cc-4d82-5b86-b0ac-51faae1372a3",
+      "moreInformation___NODE": "968a6ecd-746f-5e40-8f27-fa3437b72413",
+      "id": "36b0839d-a03f-5fed-96bb-ef6c5a2e3320",
+      "contentful_id": "29HcFTXDFqU4C68KskSKUG",
+      "createdAt": "2018-10-03T22:19:41.350Z",
+      "updatedAt": "2018-10-03T22:19:41.350Z",
+      "parent": "Trainings",
+      "children": [
+        "b705e1cc-4d82-5b86-b0ac-51faae1372a3",
+        "968a6ecd-746f-5e40-8f27-fa3437b72413"
+      ],
+      "internal": {
+        "type": "ContentfulTrainings",
+        "contentDigest": "624cdaae5f430a455e5621b9eb863062",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "b705e1cc-4d82-5b86-b0ac-51faae1372a3": {
+      "id": "b705e1cc-4d82-5b86-b0ac-51faae1372a3",
+      "parent": "36b0839d-a03f-5fed-96bb-ef6c5a2e3320",
+      "children": [
+        "ec1478d0-411b-5167-9135-b955081ae588"
+      ],
+      "location": "Location!",
+      "internal": {
+        "type": "contentfulTrainingsLocationTextNode",
+        "mediaType": "text/markdown",
+        "content": "Location!",
+        "contentDigest": "8af7e8bc2c64a34863c8a5de66d71925",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "968a6ecd-746f-5e40-8f27-fa3437b72413": {
+      "id": "968a6ecd-746f-5e40-8f27-fa3437b72413",
+      "parent": "36b0839d-a03f-5fed-96bb-ef6c5a2e3320",
+      "children": [
+        "77e9c45c-ced2-5c4f-af38-d975c3b329bd"
+      ],
+      "moreInformation": "__More info!__",
+      "internal": {
+        "type": "contentfulTrainingsMoreInformationTextNode",
+        "mediaType": "text/markdown",
+        "content": "__More info!__",
+        "contentDigest": "78af6401cb0358bd34e287d821a4b736",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "ec1478d0-411b-5167-9135-b955081ae588": {
+      "id": "ec1478d0-411b-5167-9135-b955081ae588",
+      "children": [],
+      "parent": "b705e1cc-4d82-5b86-b0ac-51faae1372a3",
+      "internal": {
+        "content": "Location!",
+        "type": "MarkdownRemark",
+        "contentDigest": "c138671140a0dfe50c92ec8d3efd7204",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "b705e1cc-4d82-5b86-b0ac-51faae1372a3"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Location!"
+    },
+    "77e9c45c-ced2-5c4f-af38-d975c3b329bd": {
+      "id": "77e9c45c-ced2-5c4f-af38-d975c3b329bd",
+      "children": [],
+      "parent": "968a6ecd-746f-5e40-8f27-fa3437b72413",
+      "internal": {
+        "content": "__More info!__",
+        "type": "MarkdownRemark",
+        "contentDigest": "2b12319f2a44692fff31eb4301530564",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "968a6ecd-746f-5e40-8f27-fa3437b72413"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "__More info!__"
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/mill5935/Documents/outdoor-collective/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/mill5935/Documents/outdoor-collective/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "48df7ac6ba889a9d14d6907d39a707cc",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /trainings/": {
+      "jsonName": "trainings-44a",
+      "internalComponentName": "ComponentTrainings",
+      "path": "/trainings/",
+      "component": "/Users/mill5935/Documents/outdoor-collective/src/pages/trainings.js",
+      "componentChunkName": "component---src-pages-trainings-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/mill5935/Documents/outdoor-collective/src/pages/trainings.js",
+      "id": "SitePage /trainings/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b7d1b72f07fb16d473b8dd3494199de6",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "c4qbgmrb0ioy-master": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybCoTpBw4kEH1PCmcK1wrN-R8O9SMKVRMOXwr8kcMKWJEccw7DCnDXCk8OfwqnCl0tzcsO3asKZw4HCuiLCqcKPwrgOwqLDp0wMbMOaUh7Cr8KJw4fCrzPCpxABbcKTwoZh"
+        "c4qbgmrb0ioy-master": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybCusKXG8OtGVVwwqcufmXCucKgWwrCumHCssKDwpcxwqZcw49bw4dZwpjCv8OzwqzCs2HDtcOFw6JAwprCr0bDsQ9HIcOuwo9DV8Ojwrddw7_Dl8OZwoUQEcOJw69Rw6DChRjClA"
       }
     },
-    "PLUGINS_HASH": "e7b670ee59885eb36882778786f0992b"
+    "PLUGINS_HASH": "b0d9fdae2359718db7545c060ff9f195"
   },
   "componentDataDependencies": {
     "nodes": {
-      "f3f6bcb5-4814-5b80-ad4b-f138851130f0": [
+      "c3be3428-d183-5345-9047-613cbec6b51d": [
         "/"
       ],
-      "4111d435-b974-5cfa-90ab-acd4cf9d835e": [
+      "043ad172-8e8e-5a07-9b1e-0a8d9e3fb7cb": [
         "/"
+      ],
+      "e0223e71-1009-52a7-81a4-0275911fb897": [
+        "/"
+      ],
+      "1b2ad8c1-c9f6-5d9f-898f-214674276d6b": [
+        "/"
+      ],
+      "4927854f-aa49-5391-a6c0-ff1369f7adce": [
+        "/"
+      ],
+      "d9d561fe-878e-51fb-818d-a66125b2977a": [
+        "/"
+      ],
+      "99938b85-4eb4-5e58-a5c4-93f07191556d": [
+        "/"
+      ],
+      "443d38f2-8d52-56e7-b50e-5aeab4dd0e27": [
+        "/"
+      ],
+      "12858f2a-afba-5603-9dd6-8661a922fe87": [
+        "/",
+        "/trainings/"
+      ],
+      "9dc013e5-641f-5d5d-b7ff-96a661a8fbae": [
+        "/",
+        "/trainings/"
+      ],
+      "1794b8b6-c96d-5afa-b143-7d48bdbc2683": [
+        "/",
+        "/trainings/"
+      ],
+      "3ea15171-9656-573d-a0c1-e5afa3cbd18e": [
+        "/",
+        "/trainings/"
+      ],
+      "968a6ecd-746f-5e40-8f27-fa3437b72413": [
+        "/",
+        "/trainings/"
+      ],
+      "77e9c45c-ced2-5c4f-af38-d975c3b329bd": [
+        "/",
+        "/trainings/"
+      ],
+      "b705e1cc-4d82-5b86-b0ac-51faae1372a3": [
+        "/",
+        "/trainings/"
+      ],
+      "ec1478d0-411b-5167-9135-b955081ae588": [
+        "/",
+        "/trainings/"
       ]
     },
-    "connections": {}
+    "connections": {
+      "ContentfulHomepage": [
+        "/"
+      ],
+      "ContentfulTrainings": [
+        "/trainings/"
+      ]
+    }
   },
   "jsonDataPaths": {
-    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E"
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "index": "157/path---index-6a9-JvuD5hTSbUSssajI2lcTAVsfQQ",
+    "trainings-44a": "789/path---trainings-44-a-c8e-yny1D3CzxipbNNp13hNCzmsGz9w"
   },
   "components": {
-    "/Users/kevin/Documents/outdoor-collective/.cache/dev-404-page.js": {
+    "/Users/mill5935/Documents/outdoor-collective/.cache/dev-404-page.js": {
       "query": "",
-      "componentPath": "/Users/kevin/Documents/outdoor-collective/.cache/dev-404-page.js"
+      "componentPath": "/Users/mill5935/Documents/outdoor-collective/.cache/dev-404-page.js"
+    },
+    "/Users/mill5935/Documents/outdoor-collective/src/pages/index.js": {
+      "query": "query usersMill5935DocumentsOutdoorCollectiveSrcPagesIndexJs2414637383 {\n  allContentfulHomepage {\n    edges {\n      node {\n        moreInfo {\n          childMarkdownRemark {\n            html\n          }\n        }\n        largeImage {\n          fluid {\n            src\n            srcSet\n            srcWebp\n            srcSetWebp\n          }\n        }\n        mission\n        gallery {\n          fluid {\n            src\n            srcSet\n            srcWebp\n            srcSetWebp\n            sizes\n          }\n        }\n      }\n    }\n  }\n}\n",
+      "componentPath": "/Users/mill5935/Documents/outdoor-collective/src/pages/index.js"
+    },
+    "/Users/mill5935/Documents/outdoor-collective/src/pages/trainings.js": {
+      "query": "query usersMill5935DocumentsOutdoorCollectiveSrcPagesTrainingsJs3916245072 {\n  allContentfulTrainings(sort: {fields: dateTime}) {\n    edges {\n      node {\n        title\n        dateTime\n        moreInformation {\n          childMarkdownRemark {\n            html\n          }\n        }\n        location {\n          childMarkdownRemark {\n            html\n          }\n        }\n      }\n    }\n  }\n}\n",
+      "componentPath": "/Users/mill5935/Documents/outdoor-collective/src/pages/trainings.js"
     }
   },
   "staticQueryComponents": {}
