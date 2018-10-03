@@ -3,8 +3,9 @@ import { graphql } from 'gatsby'
 import Layout from '../layouts/layout.js'
 import { css } from 'emotion'
 import { Container } from 'reactstrap'
+import moment from 'moment'
 
-const Homepage = (props) => {
+const Trainings = (props) => {
   const trainings = props.data.allContentfulTrainings.edges
   return (
     <Layout>
@@ -15,7 +16,7 @@ const Homepage = (props) => {
           
           `}>
             <h3>{training.node.title}</h3>
-            <h5>{training.node.dateTime}</h5>
+            <h5>{moment(training.node.dateTime).format('dddd, MMMM D YYYY, h:mm:ss a')}</h5>
             <p>
               <strong className={css`margin-right: 2rem;`}>Location</strong>
               <span dangerouslySetInnerHTML={{__html: training.node.location.childMarkdownRemark.html}}/>
@@ -29,7 +30,7 @@ const Homepage = (props) => {
   )
 }
 
-export default Homepage
+export default Trainings
 
 export const query = graphql`
 {

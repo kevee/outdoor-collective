@@ -11,6 +11,7 @@ import {
   DropdownToggle,
   DropdownMenu,
   DropdownItem } from 'reactstrap'
+import Link from 'gatsby-link'
 
 class Navigation extends React.Component {
   constructor(props) {
@@ -31,17 +32,14 @@ class Navigation extends React.Component {
     return (
       <Navbar color="light" light expand="md">
       <NavbarToggler onClick={this.toggleNavbar} className="mr-2" />
-        <NavbarBrand href="/">The Outdoor Collective</NavbarBrand>
+        <Link to="/" className="navbar-brand">The Outdoor Collective</Link>
           <Collapse isOpen={!this.state.collapsed} navbar>
             <Nav navbar>
               <NavItem>
-                <NavLink href="/trainings">Trainings</NavLink>
+                <Link className="nav-link" to="/trainings">Trainings</Link>
               </NavItem>
               <NavItem>
-                <NavLink href="/contact">Contact</NavLink>
-              </NavItem>
-              <NavItem>
-                <NavLink href="https://github.com/reactstrap/reactstrap">GitHub</NavLink>
+                <Link className="nav-link"  to="/contact">Contact</Link>
               </NavItem>
             </Nav>
         </Collapse>
