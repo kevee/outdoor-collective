@@ -30,7 +30,7 @@ class Navigation extends React.Component {
 
   render() {
     return (
-      <nav className="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+      <nav className="navbar navbar-expand-lg navbar-light" id="mainNav">
       <NavbarToggler onClick={this.toggleNavbar} className="mr-2" />
         <Link to="/" className="navbar-brand">The Outdoor Collective</Link>
           <Collapse isOpen={!this.state.collapsed} navbar>

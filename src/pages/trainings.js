@@ -2,21 +2,18 @@ import React from 'react'
 import { graphql } from 'gatsby'
 import Layout from '../layouts/layout.js'
 import { css } from 'emotion'
-import { Container } from 'reactstrap'
 import moment from 'moment'
 
 const Trainings = (props) => {
   const trainings = props.data.allContentfulTrainings.edges
   return (
     <Layout>
-      <Container>
+      <div className="container">
         <h2>Upcoming trainings</h2>
         {trainings.map(training => (
-          <div className={css`
-          
-          `}>
+          <div className="card">
             <h3>{training.node.title}</h3>
-            <h5>{moment(training.node.dateTime).format('dddd, MMMM D YYYY, h:mm:ss a')}</h5>
+            <h5>{moment(training.node.startDateTime).format('dddd, MMMM D YYYY, h:mm:ss a')}</h5>
             <p>
               <strong className={css`margin-right: 2rem;`}>Location</strong>
               <span dangerouslySetInnerHTML={{__html: training.node.location.childMarkdownRemark.html}}/>
@@ -25,7 +22,7 @@ const Trainings = (props) => {
           </div>
 
         ))}
-      </Container>
+      </div>
     </Layout>
   )
 }
@@ -35,12 +32,13 @@ export default Trainings
 export const query = graphql`
 {
   allContentfulTrainings(sort:{
-    fields:dateTime
+    fields:startDateTime
   }) {
     edges {
       node {
         title
-        dateTime
+        startDateTime
+        endDateTime
         moreInformation {
           childMarkdownRemark {
             html
