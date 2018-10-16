@@ -4,24 +4,24 @@
       "jsonName": "dev-404-page-5f9",
       "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/kevin/Documents/outdoor-collective/.cache/dev-404-page.js",
+      "component": "/Users/mill5935/Documents/outdoor-collective/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/kevin/Documents/outdoor-collective/.cache/dev-404-page.js",
+      "componentPath": "/Users/mill5935/Documents/outdoor-collective/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0d9a3efed425a01b2b5cca2dbf9f6182",
+        "contentDigest": "5642d0649a5a7d649eaab49e73cde70e",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -33,7 +33,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -50,13 +50,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d2b715cd3992acd7787079dc26d27ce9",
+        "contentDigest": "b3ca4e364f04b2214d3288446052d69c",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin load-babel-config": {
-      "resolve": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "resolve": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "id": "Plugin load-babel-config",
       "name": "load-babel-config",
       "version": "1.0.0",
@@ -68,7 +68,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "pluginFilepath": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "packageJson": {
         "name": "load-babel-config",
         "description": "Internal plugin that handles loading Babel configs",
@@ -85,13 +85,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4acd00d5e0c701bc628217792e0cfda0",
+        "contentDigest": "7d28701bc0949fd6fb5a035a8322c3a4",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -104,7 +104,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -121,13 +121,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "b5492024b7982ddfbe3f3cb7cd577d78",
+        "contentDigest": "44e80c18010da664ea289cbf2171249c",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -139,7 +139,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -156,13 +156,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "73ac6e06a242eceffc2853d235df7713",
+        "contentDigest": "c7583f40d160edefca681b5e2842920a",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -174,7 +174,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -191,13 +191,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "2b1a48bf3c7634bfffa596ad6be614de",
+        "contentDigest": "2a40d91bfed43279875d8747eb674c7f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
       "version": "3.0.0",
@@ -209,7 +209,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
@@ -272,13 +272,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "75da60b682ea3a67e3653a6618bf8078",
+        "contentDigest": "3b9e9130991d5115e440605577b58ca9",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-transformer-remark": {
-      "resolve": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby-transformer-remark",
+      "resolve": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby-transformer-remark",
       "id": "Plugin gatsby-transformer-remark",
       "name": "gatsby-transformer-remark",
       "version": "2.1.6",
@@ -291,7 +291,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby-transformer-remark",
+      "pluginFilepath": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby-transformer-remark",
       "packageJson": {
         "name": "gatsby-transformer-remark",
         "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
@@ -411,13 +411,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "02a2743696a2d5e1f82733b8c5b35362",
+        "contentDigest": "ca4c0e7e6ce8f1c986ed095d1a1b6ad9",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-google-fonts": {
-      "resolve": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby-plugin-google-fonts",
+      "resolve": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby-plugin-google-fonts",
       "id": "Plugin gatsby-plugin-google-fonts",
       "name": "gatsby-plugin-google-fonts",
       "version": "0.0.4",
@@ -433,7 +433,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby-plugin-google-fonts",
+      "pluginFilepath": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby-plugin-google-fonts",
       "packageJson": {
         "name": "gatsby-plugin-google-fonts",
         "description": "Bring Google Fonts to Gatsby",
@@ -460,13 +460,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5f14f22b0609f26e89e2da251af2504d",
+        "contentDigest": "e6d1d70459436fbae30cfe4a1f63b9f2",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-source-contentful": {
-      "resolve": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby-source-contentful",
+      "resolve": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby-source-contentful",
       "id": "Plugin gatsby-source-contentful",
       "name": "gatsby-source-contentful",
       "version": "2.0.1",
@@ -484,7 +484,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby-source-contentful",
+      "pluginFilepath": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby-source-contentful",
       "packageJson": {
         "name": "gatsby-source-contentful",
         "description": "Gatsby source plugin for building websites using the Contentful CMS as a data source",
@@ -576,13 +576,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a8befceef1d2d7cb06b7e78b0fd5ffa8",
+        "contentDigest": "df087724d6ec3bb3bfcb89b02a1746b1",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "/Users/kevin/Documents/outdoor-collective",
+      "resolve": "/Users/mill5935/Documents/outdoor-collective",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
       "version": "ead014aacc2fa8dbb718472e412bb4d7",
@@ -592,7 +592,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective",
+      "pluginFilepath": "/Users/mill5935/Documents/outdoor-collective",
       "packageJson": {
         "name": "outdoor-collective",
         "description": "",
@@ -670,19 +670,19 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "b742a89d18897993e1510b91d79fb49c",
+        "contentDigest": "f8462c5631b3f4b7766b5f0cfc7ab3ff",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-page-creator": {
-      "resolve": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby-plugin-page-creator",
+      "resolve": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby-plugin-page-creator",
       "id": "Plugin gatsby-plugin-page-creator",
       "name": "gatsby-plugin-page-creator",
       "version": "2.0.0",
       "pluginOptions": {
         "plugins": [],
-        "path": "/Users/kevin/Documents/outdoor-collective/src/pages",
+        "path": "/Users/mill5935/Documents/outdoor-collective/src/pages",
         "pathCheck": false
       },
       "nodeAPIs": [
@@ -690,7 +690,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/kevin/Documents/outdoor-collective/node_modules/gatsby-plugin-page-creator",
+      "pluginFilepath": "/Users/mill5935/Documents/outdoor-collective/node_modules/gatsby-plugin-page-creator",
       "packageJson": {
         "name": "gatsby-plugin-page-creator",
         "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
@@ -765,7 +765,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "85066437052881b73f70c0178c381bc2",
+        "contentDigest": "8d803cd93a093ab4c5a6a7c2792d1afa",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -778,12 +778,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-10-12T14:55:28.277Z",
+      "buildTime": "2018-10-16T00:12:14.949Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "dbac1ebab05a45fd85d702f41d5493a8",
+        "contentDigest": "7d99872b9717bfa9a41203e97b571121",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -798,6 +798,43 @@
       "internal": {
         "type": "ContentfulContentType",
         "contentDigest": "3042203182459741dc0ef05a07d58627",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "735e5ecb-a172-5c70-b9dd-ff87da7250f1": {
+      "title": "Another page",
+      "url": "another-page",
+      "homepage___NODE": [
+        "4def2167-ad13-5010-a1b1-3bfad4a3f408"
+      ],
+      "content___NODE": "9fcfed10-2103-5d27-9764-343d83d46bc6",
+      "id": "735e5ecb-a172-5c70-b9dd-ff87da7250f1",
+      "contentful_id": "4qH3HlvAc8GeKgqE4Q4kA",
+      "createdAt": "2018-10-16T00:12:03.640Z",
+      "updatedAt": "2018-10-16T00:12:03.640Z",
+      "parent": "Page",
+      "children": [
+        "9fcfed10-2103-5d27-9764-343d83d46bc6"
+      ],
+      "internal": {
+        "type": "ContentfulPage",
+        "contentDigest": "a26eb12187af8333a0cec0258c39ba1d",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "9fcfed10-2103-5d27-9764-343d83d46bc6": {
+      "id": "9fcfed10-2103-5d27-9764-343d83d46bc6",
+      "parent": "735e5ecb-a172-5c70-b9dd-ff87da7250f1",
+      "children": [
+        "8f407747-2cd7-567e-b0b5-bed89b44562c"
+      ],
+      "content": "Page!",
+      "internal": {
+        "type": "contentfulPageContentTextNode",
+        "mediaType": "text/markdown",
+        "content": "Page!",
+        "contentDigest": "bbf7c2a8785c170eba31a5e87d3ff44f",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -816,21 +853,48 @@
     },
     "4def2167-ad13-5010-a1b1-3bfad4a3f408": {
       "mission": "We are a network of local educators, outdoor enthusiasts and youth allies who reduce barriers and expand opportunities to get youth outdoors in Monterey County.",
+      "largeImage___NODE": "e0223e71-1009-52a7-81a4-0275911fb897",
+      "gallery___NODE": [
+        "1b2ad8c1-c9f6-5d9f-898f-214674276d6b",
+        "4927854f-aa49-5391-a6c0-ff1369f7adce",
+        "d9d561fe-878e-51fb-818d-a66125b2977a",
+        "443d38f2-8d52-56e7-b50e-5aeab4dd0e27",
+        "99938b85-4eb4-5e58-a5c4-93f07191556d"
+      ],
+      "navigation___NODE": [
+        "a62e1053-5d8c-5d56-acaa-7517c7f78cb2",
+        "735e5ecb-a172-5c70-b9dd-ff87da7250f1"
+      ],
       "moreInfo___NODE": "c3be3428-d183-5345-9047-613cbec6b51d",
       "id": "4def2167-ad13-5010-a1b1-3bfad4a3f408",
       "contentful_id": "5TGtHD5idUEwOqGUW6kCgC",
       "createdAt": "2018-10-03T18:29:00.674Z",
-      "updatedAt": "2018-10-12T14:44:07.816Z",
+      "updatedAt": "2018-10-16T00:12:11.727Z",
       "parent": "Homepage",
       "children": [
         "c3be3428-d183-5345-9047-613cbec6b51d"
       ],
       "internal": {
         "type": "ContentfulHomepage",
-        "contentDigest": "a241b94887a722f21d47e59ad7c69654",
+        "contentDigest": "1194150747b4b2d82962dee5a7eee912",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
+    },
+    "c3be3428-d183-5345-9047-613cbec6b51d": {
+      "id": "c3be3428-d183-5345-9047-613cbec6b51d",
+      "parent": "4def2167-ad13-5010-a1b1-3bfad4a3f408",
+      "children": [
+        "043ad172-8e8e-5a07-9b1e-0a8d9e3fb7cb"
+      ],
+      "moreInfo": "We work by supporting collaboration among youth-serving organizations and park and open space groups to create shared outdoor education resources.\n\n- Encourage support and collaboration among outdoor education and youth-serving organizations by gathering regularly.\n- Set up a lending library for outdoor gear, and training for youth leaders to borrow camping equipment and other outdoor gear.",
+      "internal": {
+        "type": "contentfulHomepageMoreInfoTextNode",
+        "mediaType": "text/markdown",
+        "content": "We work by supporting collaboration among youth-serving organizations and park and open space groups to create shared outdoor education resources.\n\n- Encourage support and collaboration among outdoor education and youth-serving organizations by gathering regularly.\n- Set up a lending library for outdoor gear, and training for youth leaders to borrow camping equipment and other outdoor gear.",
+        "contentDigest": "353ffad2939c7de204f210fc0e38fc97",
+        "owner": "gatsby-source-contentful"
+      }
     },
     "266cde72-1d35-54e2-813e-aab7f3942276": {
       "id": "266cde72-1d35-54e2-813e-aab7f3942276",
@@ -894,16 +958,16 @@
         "owner": "gatsby-source-contentful"
       }
     },
-    "76bb62fb-d5f7-5985-b445-6f9bcf114efc": {
-      "id": "76bb62fb-d5f7-5985-b445-6f9bcf114efc",
+    "edd9e0b3-fac3-54a5-9421-e2541fc43ba8": {
+      "id": "edd9e0b3-fac3-54a5-9421-e2541fc43ba8",
       "parent": null,
       "children": [],
-      "name": "Trainings",
+      "name": "Training",
       "displayField": "title",
       "description": "",
       "internal": {
         "type": "ContentfulContentType",
-        "contentDigest": "fd093b9379c48c766b9f9926fd6217cb",
+        "contentDigest": "d0aa15171088cf541cf3f2b68681144b",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -912,20 +976,23 @@
       "preTripDateTime": "2018-10-08T00:00",
       "startDateTime": "2018-10-17T00:00",
       "endDateTime": "2018-10-18T00:00",
+      "homepage___NODE": [
+        "4def2167-ad13-5010-a1b1-3bfad4a3f408"
+      ],
       "location___NODE": "1794b8b6-c96d-5afa-b143-7d48bdbc2683",
       "moreInformation___NODE": "12858f2a-afba-5603-9dd6-8661a922fe87",
       "id": "a62e1053-5d8c-5d56-acaa-7517c7f78cb2",
       "contentful_id": "4v2uclNYEgSaoSQ0ssM4mU",
       "createdAt": "2018-10-03T22:16:14.980Z",
       "updatedAt": "2018-10-12T01:10:30.203Z",
-      "parent": "Trainings",
+      "parent": "Training",
       "children": [
         "1794b8b6-c96d-5afa-b143-7d48bdbc2683",
         "12858f2a-afba-5603-9dd6-8661a922fe87"
       ],
       "internal": {
-        "type": "ContentfulTrainings",
-        "contentDigest": "4dc92c2107d21dbf49952cfbd71cb214",
+        "type": "ContentfulTraining",
+        "contentDigest": "8e6a0256ea0a15fb2333a03f18bc53e3",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
@@ -938,14 +1005,14 @@
       "contentful_id": "29HcFTXDFqU4C68KskSKUG",
       "createdAt": "2018-10-03T22:19:41.350Z",
       "updatedAt": "2018-10-03T22:19:41.350Z",
-      "parent": "Trainings",
+      "parent": "Training",
       "children": [
         "b705e1cc-4d82-5b86-b0ac-51faae1372a3",
         "968a6ecd-746f-5e40-8f27-fa3437b72413"
       ],
       "internal": {
-        "type": "ContentfulTrainings",
-        "contentDigest": "4757b8d772e4f248010ac9179f7e7c6d",
+        "type": "ContentfulTraining",
+        "contentDigest": "ef8b745eed41ce683fb0b0bac0b36398",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
@@ -958,7 +1025,7 @@
       ],
       "location": "Location!",
       "internal": {
-        "type": "contentfulTrainingsLocationTextNode",
+        "type": "contentfulTrainingLocationTextNode",
         "mediaType": "text/markdown",
         "content": "Location!",
         "contentDigest": "8af7e8bc2c64a34863c8a5de66d71925",
@@ -973,7 +1040,7 @@
       ],
       "moreInformation": "__More info!__",
       "internal": {
-        "type": "contentfulTrainingsMoreInformationTextNode",
+        "type": "contentfulTrainingMoreInformationTextNode",
         "mediaType": "text/markdown",
         "content": "__More info!__",
         "contentDigest": "78af6401cb0358bd34e287d821a4b736",
@@ -988,7 +1055,7 @@
       ],
       "location": "Location!",
       "internal": {
-        "type": "contentfulTrainingsLocationTextNode",
+        "type": "contentfulTrainingLocationTextNode",
         "mediaType": "text/markdown",
         "content": "Location!",
         "contentDigest": "8af7e8bc2c64a34863c8a5de66d71925",
@@ -1003,23 +1070,10 @@
       ],
       "moreInformation": "__More info!__",
       "internal": {
-        "type": "contentfulTrainingsMoreInformationTextNode",
+        "type": "contentfulTrainingMoreInformationTextNode",
         "mediaType": "text/markdown",
         "content": "__More info!__",
         "contentDigest": "78af6401cb0358bd34e287d821a4b736",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "5dcec889-61af-5f91-8955-c8b3a47a8b1a": {
-      "id": "5dcec889-61af-5f91-8955-c8b3a47a8b1a",
-      "parent": null,
-      "children": [],
-      "name": "Navigation",
-      "displayField": null,
-      "description": "",
-      "internal": {
-        "type": "ContentfulContentType",
-        "contentDigest": "2bfa188d6e9c1d68f200bce5707fed46",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -1205,6 +1259,40 @@
         "owner": "gatsby-source-contentful"
       }
     },
+    "8f407747-2cd7-567e-b0b5-bed89b44562c": {
+      "id": "8f407747-2cd7-567e-b0b5-bed89b44562c",
+      "children": [],
+      "parent": "9fcfed10-2103-5d27-9764-343d83d46bc6",
+      "internal": {
+        "content": "Page!",
+        "type": "MarkdownRemark",
+        "contentDigest": "1a83a25c702c41e024be183779918118",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "9fcfed10-2103-5d27-9764-343d83d46bc6"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Page!"
+    },
+    "043ad172-8e8e-5a07-9b1e-0a8d9e3fb7cb": {
+      "id": "043ad172-8e8e-5a07-9b1e-0a8d9e3fb7cb",
+      "children": [],
+      "parent": "c3be3428-d183-5345-9047-613cbec6b51d",
+      "internal": {
+        "content": "We work by supporting collaboration among youth-serving organizations and park and open space groups to create shared outdoor education resources.\n\n- Encourage support and collaboration among outdoor education and youth-serving organizations by gathering regularly.\n- Set up a lending library for outdoor gear, and training for youth leaders to borrow camping equipment and other outdoor gear.",
+        "type": "MarkdownRemark",
+        "contentDigest": "223c7f02aa05cdc9239f89de4b716b8d",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c3be3428-d183-5345-9047-613cbec6b51d"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "We work by supporting collaboration among youth-serving organizations and park and open space groups to create shared outdoor education resources.\n\n- Encourage support and collaboration among outdoor education and youth-serving organizations by gathering regularly.\n- Set up a lending library for outdoor gear, and training for youth leaders to borrow camping equipment and other outdoor gear."
+    },
     "8d7443a0-a027-5e32-90f8-b573f8d52b3f": {
       "id": "8d7443a0-a027-5e32-90f8-b573f8d52b3f",
       "children": [],
@@ -1307,54 +1395,22 @@
       "excerpt": "",
       "rawMarkdownBody": "__More info!__"
     },
-    "c3be3428-d183-5345-9047-613cbec6b51d": {
-      "id": "c3be3428-d183-5345-9047-613cbec6b51d",
-      "parent": "4def2167-ad13-5010-a1b1-3bfad4a3f408",
-      "children": [
-        "043ad172-8e8e-5a07-9b1e-0a8d9e3fb7cb"
-      ],
-      "moreInfo": "We work by supporting collaboration among youth-serving organizations and park and open space groups to create shared outdoor education resources.\n\n- Encourage support and collaboration among outdoor education and youth-serving organizations by gathering regularly.\n- Set up a lending library for outdoor gear, and training for youth leaders to borrow camping equipment and other outdoor gear.",
-      "internal": {
-        "type": "contentfulHomepageMoreInfoTextNode",
-        "mediaType": "text/markdown",
-        "content": "We work by supporting collaboration among youth-serving organizations and park and open space groups to create shared outdoor education resources.\n\n- Encourage support and collaboration among outdoor education and youth-serving organizations by gathering regularly.\n- Set up a lending library for outdoor gear, and training for youth leaders to borrow camping equipment and other outdoor gear.",
-        "contentDigest": "353ffad2939c7de204f210fc0e38fc97",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "043ad172-8e8e-5a07-9b1e-0a8d9e3fb7cb": {
-      "id": "043ad172-8e8e-5a07-9b1e-0a8d9e3fb7cb",
-      "children": [],
-      "parent": "c3be3428-d183-5345-9047-613cbec6b51d",
-      "internal": {
-        "content": "We work by supporting collaboration among youth-serving organizations and park and open space groups to create shared outdoor education resources.\n\n- Encourage support and collaboration among outdoor education and youth-serving organizations by gathering regularly.\n- Set up a lending library for outdoor gear, and training for youth leaders to borrow camping equipment and other outdoor gear.",
-        "type": "MarkdownRemark",
-        "contentDigest": "223c7f02aa05cdc9239f89de4b716b8d",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c3be3428-d183-5345-9047-613cbec6b51d"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "We work by supporting collaboration among youth-serving organizations and park and open space groups to create shared outdoor education resources.\n\n- Encourage support and collaboration among outdoor education and youth-serving organizations by gathering regularly.\n- Set up a lending library for outdoor gear, and training for youth leaders to borrow camping equipment and other outdoor gear."
-    },
     "SitePage /contact/": {
       "jsonName": "contact-26a",
       "internalComponentName": "ComponentContact",
       "path": "/contact/",
-      "component": "/Users/kevin/Documents/outdoor-collective/src/pages/contact.js",
+      "component": "/Users/mill5935/Documents/outdoor-collective/src/pages/contact.js",
       "componentChunkName": "component---src-pages-contact-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/kevin/Documents/outdoor-collective/src/pages/contact.js",
+      "componentPath": "/Users/mill5935/Documents/outdoor-collective/src/pages/contact.js",
       "id": "SitePage /contact/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d751ed5e547b79e8f97d49bdae3e006d",
+        "contentDigest": "b61c42005f64f2db00d33ff29ffe7640",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1363,18 +1419,18 @@
       "jsonName": "index",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "/Users/kevin/Documents/outdoor-collective/src/pages/index.js",
+      "component": "/Users/mill5935/Documents/outdoor-collective/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/kevin/Documents/outdoor-collective/src/pages/index.js",
+      "componentPath": "/Users/mill5935/Documents/outdoor-collective/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0652f3b955482208c348d31a63d2a2eb",
+        "contentDigest": "48df7ac6ba889a9d14d6907d39a707cc",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1383,18 +1439,18 @@
       "jsonName": "trainings-44a",
       "internalComponentName": "ComponentTrainings",
       "path": "/trainings/",
-      "component": "/Users/kevin/Documents/outdoor-collective/src/pages/trainings.js",
+      "component": "/Users/mill5935/Documents/outdoor-collective/src/pages/trainings.js",
       "componentChunkName": "component---src-pages-trainings-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/kevin/Documents/outdoor-collective/src/pages/trainings.js",
+      "componentPath": "/Users/mill5935/Documents/outdoor-collective/src/pages/trainings.js",
       "id": "SitePage /trainings/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "69e114ea66d2a97dcbe9757af98b0395",
+        "contentDigest": "b7d1b72f07fb16d473b8dd3494199de6",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1403,61 +1459,114 @@
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "c4qbgmrb0ioy-master": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyYJw43Dh8O0wr7DoXpVwojCv8KhwrvCp8OBEHfDmggdwpEvw7DDg0PCsxfDiQTDhcKRTcOAA1bCnEnDmBbDnsOaS8OTMMOKZ8Oqw40DwpTCr8OpwrTDj24FwoDDjMK3w4DDrFfDpEAI"
+        "c4qbgmrb0ioy-master": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyYDw6vCnzXCkcOhMHEOenjCkAbCg8OHwrluasOBw73DvsKRwrPCs8Kya3VEPcOENk_DisOlwqDDscOowrvDs8Kgw7sBw6fClkp9NcOQPTvCuC3CkcOiXDfDq04hw49uEh7DtQ"
       }
     },
     "PLUGINS_HASH": "fd441690a2f0e54d84a981913dcda7d5"
   },
   "componentDataDependencies": {
     "nodes": {
-      "4111d435-b974-5cfa-90ab-acd4cf9d835e": [],
-      "8d7443a0-a027-5e32-90f8-b573f8d52b3f": [],
-      "f3f6bcb5-4814-5b80-ad4b-f138851130f0": [],
-      "c3be3428-d183-5345-9047-613cbec6b51d": [],
-      "043ad172-8e8e-5a07-9b1e-0a8d9e3fb7cb": [],
-      "e0223e71-1009-52a7-81a4-0275911fb897": [],
-      "1b2ad8c1-c9f6-5d9f-898f-214674276d6b": [],
-      "4927854f-aa49-5391-a6c0-ff1369f7adce": [],
-      "d9d561fe-878e-51fb-818d-a66125b2977a": [],
-      "99938b85-4eb4-5e58-a5c4-93f07191556d": [],
-      "443d38f2-8d52-56e7-b50e-5aeab4dd0e27": [],
-      "12858f2a-afba-5603-9dd6-8661a922fe87": [],
-      "9dc013e5-641f-5d5d-b7ff-96a661a8fbae": [],
-      "1794b8b6-c96d-5afa-b143-7d48bdbc2683": [],
-      "3ea15171-9656-573d-a0c1-e5afa3cbd18e": [],
-      "968a6ecd-746f-5e40-8f27-fa3437b72413": [],
-      "77e9c45c-ced2-5c4f-af38-d975c3b329bd": [],
-      "b705e1cc-4d82-5b86-b0ac-51faae1372a3": [],
-      "ec1478d0-411b-5167-9135-b955081ae588": []
+      "4111d435-b974-5cfa-90ab-acd4cf9d835e": [
+        "/contact/"
+      ],
+      "8d7443a0-a027-5e32-90f8-b573f8d52b3f": [
+        "/contact/"
+      ],
+      "f3f6bcb5-4814-5b80-ad4b-f138851130f0": [
+        "/contact/"
+      ],
+      "c3be3428-d183-5345-9047-613cbec6b51d": [
+        "/"
+      ],
+      "043ad172-8e8e-5a07-9b1e-0a8d9e3fb7cb": [
+        "/"
+      ],
+      "e0223e71-1009-52a7-81a4-0275911fb897": [
+        "/"
+      ],
+      "1b2ad8c1-c9f6-5d9f-898f-214674276d6b": [
+        "/"
+      ],
+      "4927854f-aa49-5391-a6c0-ff1369f7adce": [
+        "/"
+      ],
+      "d9d561fe-878e-51fb-818d-a66125b2977a": [
+        "/"
+      ],
+      "443d38f2-8d52-56e7-b50e-5aeab4dd0e27": [
+        "/"
+      ],
+      "99938b85-4eb4-5e58-a5c4-93f07191556d": [
+        "/"
+      ],
+      "12858f2a-afba-5603-9dd6-8661a922fe87": [
+        "/trainings/"
+      ],
+      "9dc013e5-641f-5d5d-b7ff-96a661a8fbae": [
+        "/trainings/"
+      ],
+      "1794b8b6-c96d-5afa-b143-7d48bdbc2683": [
+        "/trainings/"
+      ],
+      "3ea15171-9656-573d-a0c1-e5afa3cbd18e": [
+        "/trainings/"
+      ],
+      "968a6ecd-746f-5e40-8f27-fa3437b72413": [
+        "/trainings/"
+      ],
+      "77e9c45c-ced2-5c4f-af38-d975c3b329bd": [
+        "/trainings/"
+      ],
+      "b705e1cc-4d82-5b86-b0ac-51faae1372a3": [
+        "/trainings/"
+      ],
+      "ec1478d0-411b-5167-9135-b955081ae588": [
+        "/trainings/"
+      ],
+      "a62e1053-5d8c-5d56-acaa-7517c7f78cb2": [
+        "/"
+      ],
+      "735e5ecb-a172-5c70-b9dd-ff87da7250f1": [
+        "/"
+      ],
+      "4def2167-ad13-5010-a1b1-3bfad4a3f408": [
+        "/"
+      ]
     },
     "connections": {
-      "ContentfulContact": [],
-      "ContentfulHomepage": [],
-      "ContentfulTrainings": []
+      "ContentfulContact": [
+        "/contact/"
+      ],
+      "ContentfulHomepage": [
+        "/"
+      ],
+      "ContentfulTraining": [
+        "/trainings/"
+      ]
     }
   },
   "jsonDataPaths": {
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
-    "contact-26a": "686/path---contact-26-a-cd9-NZuapzHg3X9TaN1iIixfv1W23E",
-    "trainings-44a": "766/path---trainings-44-a-c8e-NZuapzHg3X9TaN1iIixfv1W23E",
-    "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E"
+    "index": "141/path---index-6a9-CM5gyd17q2oVrSBURHJ4lm4zl4",
+    "contact-26a": "216/path---contact-26-a-cd9-qbe3jzYpkOsqrgEMPlKB2WphsY",
+    "trainings-44a": "669/path---trainings-44-a-c8e-iH4xlk8WDsoAQ4N6CWfKePaeyU"
   },
   "components": {
-    "/Users/kevin/Documents/outdoor-collective/.cache/dev-404-page.js": {
+    "/Users/mill5935/Documents/outdoor-collective/.cache/dev-404-page.js": {
       "query": "",
-      "componentPath": "/Users/kevin/Documents/outdoor-collective/.cache/dev-404-page.js"
+      "componentPath": "/Users/mill5935/Documents/outdoor-collective/.cache/dev-404-page.js"
     },
-    "/Users/kevin/Documents/outdoor-collective/src/pages/contact.js": {
-      "query": "",
-      "componentPath": "/Users/kevin/Documents/outdoor-collective/src/pages/contact.js"
+    "/Users/mill5935/Documents/outdoor-collective/src/pages/contact.js": {
+      "query": "query usersMill5935DocumentsOutdoorCollectiveSrcPagesContactJs3992153070 {\n  allContentfulContact {\n    edges {\n      node {\n        contactLeadIn {\n          childMarkdownRemark {\n            html\n          }\n        }\n        childContentfulContactMailchimpTextNode {\n          mailchimp\n        }\n      }\n    }\n  }\n}\n",
+      "componentPath": "/Users/mill5935/Documents/outdoor-collective/src/pages/contact.js"
     },
-    "/Users/kevin/Documents/outdoor-collective/src/pages/index.js": {
-      "query": "",
-      "componentPath": "/Users/kevin/Documents/outdoor-collective/src/pages/index.js"
+    "/Users/mill5935/Documents/outdoor-collective/src/pages/index.js": {
+      "query": "query usersMill5935DocumentsOutdoorCollectiveSrcPagesIndexJs2414637383 {\n  allContentfulHomepage {\n    edges {\n      node {\n        moreInfo {\n          childMarkdownRemark {\n            html\n          }\n        }\n        largeImage {\n          fluid {\n            src\n            srcSet\n            srcWebp\n            srcSetWebp\n          }\n        }\n        mission\n        gallery {\n          fluid {\n            src\n            srcSet\n            srcWebp\n            srcSetWebp\n            sizes\n          }\n        }\n      }\n    }\n  }\n}\n",
+      "componentPath": "/Users/mill5935/Documents/outdoor-collective/src/pages/index.js"
     },
-    "/Users/kevin/Documents/outdoor-collective/src/pages/trainings.js": {
-      "query": "",
-      "componentPath": "/Users/kevin/Documents/outdoor-collective/src/pages/trainings.js"
+    "/Users/mill5935/Documents/outdoor-collective/src/pages/trainings.js": {
+      "query": "query usersMill5935DocumentsOutdoorCollectiveSrcPagesTrainingsJs1662641056 {\n  allContentfulTraining(sort: {fields: startDateTime}) {\n    edges {\n      node {\n        title\n        startDateTime\n        endDateTime\n        moreInformation {\n          childMarkdownRemark {\n            html\n          }\n        }\n        location {\n          childMarkdownRemark {\n            html\n          }\n        }\n      }\n    }\n  }\n}\n",
+      "componentPath": "/Users/mill5935/Documents/outdoor-collective/src/pages/trainings.js"
     }
   },
   "staticQueryComponents": {}

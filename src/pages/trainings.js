@@ -31,7 +31,7 @@ export default Trainings
 
 export const query = graphql`
 {
-  allContentfulTrainings(sort:{
+  allContentfulTraining(sort:{
     fields:startDateTime
   }) {
     edges {

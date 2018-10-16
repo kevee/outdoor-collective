@@ -8,11 +8,11 @@ import MailchimpSubscribe from "react-mailchimp-subscribe"
 const Contact = (props) => {
   return (
     <Layout>
-      <Container>
+      <div className="container">
         <h2>Get in touch</h2>
         <div dangerouslySetInnerHTML={{__html: props.data.allContentfulContact.edges[0].node.contactLeadIn.childMarkdownRemark.html}}/>
         <MailchimpSubscribe url={props.data.allContentfulContact.edges[0].node.childContentfulContactMailchimpTextNode.mailchimp}/>
-      </Container>
+      </div>
     </Layout>
   )
 }
