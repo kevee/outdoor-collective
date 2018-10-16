@@ -1,17 +1,18 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import Layout from '../layouts/layout.js'
-import { css } from 'emotion'
-import { Container } from 'reactstrap'
 import MailchimpSubscribe from "react-mailchimp-subscribe"
+import Masthead from '../layouts/components/masthead'
 
 const Contact = (props) => {
+  const contact = props.data.allContentfulContact.edges[0].node
   return (
     <Layout>
+      <Masthead image={contact.largeImage.fluid.src} title="Contact us"/>
       <div className="container">
-        <h2>Get in touch</h2>
-        <div dangerouslySetInnerHTML={{__html: props.data.allContentfulContact.edges[0].node.contactLeadIn.childMarkdownRemark.html}}/>
-        <MailchimpSubscribe url={props.data.allContentfulContact.edges[0].node.childContentfulContactMailchimpTextNode.mailchimp}/>
+      
+        <div dangerouslySetInnerHTML={{__html: contact.contactLeadIn.childMarkdownRemark.html}}/>
+        <MailchimpSubscribe url={contact.childContentfulContactMailchimpTextNode.mailchimp}/>
       </div>
     </Layout>
   )
@@ -31,7 +32,13 @@ export const query = graphql`{
         childContentfulContactMailchimpTextNode {
           mailchimp
         }
+        largeImage {
+          fluid {
+            src
+          }
+        }
       }
+      
     }
   }
 }

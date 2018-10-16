@@ -778,12 +778,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-10-16T00:12:14.949Z",
+      "buildTime": "2018-10-16T16:25:30.552Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "7d99872b9717bfa9a41203e97b571121",
+        "contentDigest": "cfbd358bb4300f340b2b0bd82d73162b",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -804,21 +804,19 @@
     "735e5ecb-a172-5c70-b9dd-ff87da7250f1": {
       "title": "Another page",
       "url": "another-page",
-      "homepage___NODE": [
-        "4def2167-ad13-5010-a1b1-3bfad4a3f408"
-      ],
+      "largeImage___NODE": "443d38f2-8d52-56e7-b50e-5aeab4dd0e27",
       "content___NODE": "9fcfed10-2103-5d27-9764-343d83d46bc6",
       "id": "735e5ecb-a172-5c70-b9dd-ff87da7250f1",
       "contentful_id": "4qH3HlvAc8GeKgqE4Q4kA",
       "createdAt": "2018-10-16T00:12:03.640Z",
-      "updatedAt": "2018-10-16T00:12:03.640Z",
+      "updatedAt": "2018-10-16T16:23:05.041Z",
       "parent": "Page",
       "children": [
         "9fcfed10-2103-5d27-9764-343d83d46bc6"
       ],
       "internal": {
         "type": "ContentfulPage",
-        "contentDigest": "a26eb12187af8333a0cec0258c39ba1d",
+        "contentDigest": "51ed06f771d10db58e436476b7c8b8b2",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
@@ -861,25 +859,38 @@
         "443d38f2-8d52-56e7-b50e-5aeab4dd0e27",
         "99938b85-4eb4-5e58-a5c4-93f07191556d"
       ],
-      "navigation___NODE": [
-        "a62e1053-5d8c-5d56-acaa-7517c7f78cb2",
-        "735e5ecb-a172-5c70-b9dd-ff87da7250f1"
-      ],
+      "navigation___NODE": "1cff2709-8d0c-5ab4-9331-eacade36dd1c",
       "moreInfo___NODE": "c3be3428-d183-5345-9047-613cbec6b51d",
       "id": "4def2167-ad13-5010-a1b1-3bfad4a3f408",
       "contentful_id": "5TGtHD5idUEwOqGUW6kCgC",
       "createdAt": "2018-10-03T18:29:00.674Z",
-      "updatedAt": "2018-10-16T00:12:11.727Z",
+      "updatedAt": "2018-10-16T16:23:18.436Z",
       "parent": "Homepage",
       "children": [
+        "1cff2709-8d0c-5ab4-9331-eacade36dd1c",
         "c3be3428-d183-5345-9047-613cbec6b51d"
       ],
       "internal": {
         "type": "ContentfulHomepage",
-        "contentDigest": "1194150747b4b2d82962dee5a7eee912",
+        "contentDigest": "1fd0c625241004db6a184d84bc0b99a8",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
+    },
+    "1cff2709-8d0c-5ab4-9331-eacade36dd1c": {
+      "id": "1cff2709-8d0c-5ab4-9331-eacade36dd1c",
+      "parent": "4def2167-ad13-5010-a1b1-3bfad4a3f408",
+      "children": [
+        "6703b904-86ef-580a-8857-b87d5337b795"
+      ],
+      "navigation": "Trainings|/trainings\nContact|/contact\nAnother page|/another-page",
+      "internal": {
+        "type": "contentfulHomepageNavigationTextNode",
+        "mediaType": "text/markdown",
+        "content": "Trainings|/trainings\nContact|/contact\nAnother page|/another-page",
+        "contentDigest": "c857a40d73c3b53576c8d4b7a3ae51a3",
+        "owner": "gatsby-source-contentful"
+      }
     },
     "c3be3428-d183-5345-9047-613cbec6b51d": {
       "id": "c3be3428-d183-5345-9047-613cbec6b51d",
@@ -910,12 +921,13 @@
       }
     },
     "eb9d79ec-6c5e-5951-9d1d-6adacab066d5": {
+      "largeImage___NODE": "4927854f-aa49-5391-a6c0-ff1369f7adce",
       "contactLeadIn___NODE": "4111d435-b974-5cfa-90ab-acd4cf9d835e",
       "mailchimp___NODE": "f3f6bcb5-4814-5b80-ad4b-f138851130f0",
       "id": "eb9d79ec-6c5e-5951-9d1d-6adacab066d5",
       "contentful_id": "6He8ncrC24MkcqkOEaQCmQ",
       "createdAt": "2018-09-28T03:51:37.187Z",
-      "updatedAt": "2018-10-03T23:21:02.531Z",
+      "updatedAt": "2018-10-16T16:22:49.311Z",
       "parent": "Contact",
       "children": [
         "4111d435-b974-5cfa-90ab-acd4cf9d835e",
@@ -923,7 +935,7 @@
       ],
       "internal": {
         "type": "ContentfulContact",
-        "contentDigest": "4bd68f9b6ab078503eb5424e56544196",
+        "contentDigest": "d04b2fdbe508e95ef902cf519d81be1e",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
@@ -976,9 +988,6 @@
       "preTripDateTime": "2018-10-08T00:00",
       "startDateTime": "2018-10-17T00:00",
       "endDateTime": "2018-10-18T00:00",
-      "homepage___NODE": [
-        "4def2167-ad13-5010-a1b1-3bfad4a3f408"
-      ],
       "location___NODE": "1794b8b6-c96d-5afa-b143-7d48bdbc2683",
       "moreInformation___NODE": "12858f2a-afba-5603-9dd6-8661a922fe87",
       "id": "a62e1053-5d8c-5d56-acaa-7517c7f78cb2",
@@ -992,7 +1001,7 @@
       ],
       "internal": {
         "type": "ContentfulTraining",
-        "contentDigest": "8e6a0256ea0a15fb2333a03f18bc53e3",
+        "contentDigest": "862a4fe3fdac6980e754f41ea1687193",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
@@ -1074,6 +1083,52 @@
         "mediaType": "text/markdown",
         "content": "__More info!__",
         "contentDigest": "78af6401cb0358bd34e287d821a4b736",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "d58d64b6-1619-5ded-95bd-cdb2f09b87b9": {
+      "id": "d58d64b6-1619-5ded-95bd-cdb2f09b87b9",
+      "parent": null,
+      "children": [],
+      "name": "Trainings landing page",
+      "displayField": "leadIn",
+      "description": "",
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "b39d855b4f975be3a122c37844420691",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "6b021608-a579-5820-aaf6-373cc54a096c": {
+      "largeImage___NODE": "d9d561fe-878e-51fb-818d-a66125b2977a",
+      "leadIn___NODE": "1c5855f3-1358-5bfc-9aee-af2e4040a707",
+      "id": "6b021608-a579-5820-aaf6-373cc54a096c",
+      "contentful_id": "33zysL6RLGUuwQyqGiui6y",
+      "createdAt": "2018-10-16T16:24:35.993Z",
+      "updatedAt": "2018-10-16T16:24:53.814Z",
+      "parent": "Trainings landing page",
+      "children": [
+        "1c5855f3-1358-5bfc-9aee-af2e4040a707"
+      ],
+      "internal": {
+        "type": "ContentfulTrainingsLandingPage",
+        "contentDigest": "1f35d6293faeca16958e141c1156318f",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "1c5855f3-1358-5bfc-9aee-af2e4040a707": {
+      "id": "1c5855f3-1358-5bfc-9aee-af2e4040a707",
+      "parent": "6b021608-a579-5820-aaf6-373cc54a096c",
+      "children": [
+        "9d910361-3c76-5d5b-8674-84e9c87a6e7a"
+      ],
+      "leadIn": "Love the outdoors? Join us for one of our outdoor trainings!",
+      "internal": {
+        "type": "contentfulTrainingsLandingPageLeadInTextNode",
+        "mediaType": "text/markdown",
+        "content": "Love the outdoors? Join us for one of our outdoor trainings!",
+        "contentDigest": "8d53f05361587fc347ef816cee92e9da",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -1276,6 +1331,23 @@
       "excerpt": "",
       "rawMarkdownBody": "Page!"
     },
+    "6703b904-86ef-580a-8857-b87d5337b795": {
+      "id": "6703b904-86ef-580a-8857-b87d5337b795",
+      "children": [],
+      "parent": "1cff2709-8d0c-5ab4-9331-eacade36dd1c",
+      "internal": {
+        "content": "Trainings|/trainings\nContact|/contact\nAnother page|/another-page",
+        "type": "MarkdownRemark",
+        "contentDigest": "7341370726b248d41e0ea88c1293f627",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "1cff2709-8d0c-5ab4-9331-eacade36dd1c"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Trainings|/trainings\nContact|/contact\nAnother page|/another-page"
+    },
     "043ad172-8e8e-5a07-9b1e-0a8d9e3fb7cb": {
       "id": "043ad172-8e8e-5a07-9b1e-0a8d9e3fb7cb",
       "children": [],
@@ -1395,6 +1467,23 @@
       "excerpt": "",
       "rawMarkdownBody": "__More info!__"
     },
+    "9d910361-3c76-5d5b-8674-84e9c87a6e7a": {
+      "id": "9d910361-3c76-5d5b-8674-84e9c87a6e7a",
+      "children": [],
+      "parent": "1c5855f3-1358-5bfc-9aee-af2e4040a707",
+      "internal": {
+        "content": "Love the outdoors? Join us for one of our outdoor trainings!",
+        "type": "MarkdownRemark",
+        "contentDigest": "bc6623d229485c8cb52270ff37c0783b",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "1c5855f3-1358-5bfc-9aee-af2e4040a707"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Love the outdoors? Join us for one of our outdoor trainings!"
+    },
     "SitePage /contact/": {
       "jsonName": "contact-26a",
       "internalComponentName": "ComponentContact",
@@ -1459,21 +1548,18 @@
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "c4qbgmrb0ioy-master": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyYDw6vCnzXCkcOhMHEOenjCkAbCg8OHwrluasOBw73DvsKRwrPCs8Kya3VEPcOENk_DisOlwqDDscOowrvDs8Kgw7sBw6fClkp9NcOQPTvCuC3CkcOiXDfDq04hw49uEh7DtQ"
+        "c4qbgmrb0ioy-master": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyZLLHHCrlFRw4ooCsK1OsOyZMKRZk7DpmZPPzHDicObwrtmwoDDn3rDvMK6XcKifMOyOcKgCX_Ds8OaNMOTfMKQw6_CpFDDjipTw7nDgQEDYxLDsmJ_w6fDjyAuMw"
       }
     },
     "PLUGINS_HASH": "fd441690a2f0e54d84a981913dcda7d5"
   },
   "componentDataDependencies": {
     "nodes": {
-      "4111d435-b974-5cfa-90ab-acd4cf9d835e": [
-        "/contact/"
+      "1cff2709-8d0c-5ab4-9331-eacade36dd1c": [
+        "sq--src-layouts-layout-js"
       ],
-      "8d7443a0-a027-5e32-90f8-b573f8d52b3f": [
-        "/contact/"
-      ],
-      "f3f6bcb5-4814-5b80-ad4b-f138851130f0": [
-        "/contact/"
+      "6703b904-86ef-580a-8857-b87d5337b795": [
+        "sq--src-layouts-layout-js"
       ],
       "c3be3428-d183-5345-9047-613cbec6b51d": [
         "/"
@@ -1488,9 +1574,11 @@
         "/"
       ],
       "4927854f-aa49-5391-a6c0-ff1369f7adce": [
+        "/contact/",
         "/"
       ],
       "d9d561fe-878e-51fb-818d-a66125b2977a": [
+        "/trainings/",
         "/"
       ],
       "443d38f2-8d52-56e7-b50e-5aeab4dd0e27": [
@@ -1498,6 +1586,15 @@
       ],
       "99938b85-4eb4-5e58-a5c4-93f07191556d": [
         "/"
+      ],
+      "4111d435-b974-5cfa-90ab-acd4cf9d835e": [
+        "/contact/"
+      ],
+      "8d7443a0-a027-5e32-90f8-b573f8d52b3f": [
+        "/contact/"
+      ],
+      "f3f6bcb5-4814-5b80-ad4b-f138851130f0": [
+        "/contact/"
       ],
       "12858f2a-afba-5603-9dd6-8661a922fe87": [
         "/trainings/"
@@ -1523,33 +1620,35 @@
       "ec1478d0-411b-5167-9135-b955081ae588": [
         "/trainings/"
       ],
-      "a62e1053-5d8c-5d56-acaa-7517c7f78cb2": [
-        "/"
+      "1c5855f3-1358-5bfc-9aee-af2e4040a707": [
+        "/trainings/"
       ],
-      "735e5ecb-a172-5c70-b9dd-ff87da7250f1": [
-        "/"
-      ],
-      "4def2167-ad13-5010-a1b1-3bfad4a3f408": [
-        "/"
+      "9d910361-3c76-5d5b-8674-84e9c87a6e7a": [
+        "/trainings/"
       ]
     },
     "connections": {
+      "ContentfulHomepage": [
+        "/",
+        "sq--src-layouts-layout-js"
+      ],
       "ContentfulContact": [
         "/contact/"
       ],
-      "ContentfulHomepage": [
-        "/"
-      ],
       "ContentfulTraining": [
+        "/trainings/"
+      ],
+      "ContentfulTrainingsLandingPage": [
         "/trainings/"
       ]
     }
   },
   "jsonDataPaths": {
+    "sq--src-layouts-layout-js": 2639965699,
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
     "index": "141/path---index-6a9-CM5gyd17q2oVrSBURHJ4lm4zl4",
-    "contact-26a": "216/path---contact-26-a-cd9-qbe3jzYpkOsqrgEMPlKB2WphsY",
-    "trainings-44a": "669/path---trainings-44-a-c8e-iH4xlk8WDsoAQ4N6CWfKePaeyU"
+    "contact-26a": "491/path---contact-26-a-cd9-M2uIRNlIt0Q18ZbqSRIQiiFTBI",
+    "trainings-44a": "997/path---trainings-44-a-c8e-Ec4iy8LPriRF5fPbXOeev2KUr1I"
   },
   "components": {
     "/Users/mill5935/Documents/outdoor-collective/.cache/dev-404-page.js": {
@@ -1557,7 +1656,7 @@
       "componentPath": "/Users/mill5935/Documents/outdoor-collective/.cache/dev-404-page.js"
     },
     "/Users/mill5935/Documents/outdoor-collective/src/pages/contact.js": {
-      "query": "query usersMill5935DocumentsOutdoorCollectiveSrcPagesContactJs3992153070 {\n  allContentfulContact {\n    edges {\n      node {\n        contactLeadIn {\n          childMarkdownRemark {\n            html\n          }\n        }\n        childContentfulContactMailchimpTextNode {\n          mailchimp\n        }\n      }\n    }\n  }\n}\n",
+      "query": "query usersMill5935DocumentsOutdoorCollectiveSrcPagesContactJs2240620269 {\n  allContentfulContact {\n    edges {\n      node {\n        contactLeadIn {\n          childMarkdownRemark {\n            html\n          }\n        }\n        childContentfulContactMailchimpTextNode {\n          mailchimp\n        }\n        largeImage {\n          fluid {\n            src\n          }\n        }\n      }\n    }\n  }\n}\n",
       "componentPath": "/Users/mill5935/Documents/outdoor-collective/src/pages/contact.js"
     },
     "/Users/mill5935/Documents/outdoor-collective/src/pages/index.js": {
@@ -1565,9 +1664,18 @@
       "componentPath": "/Users/mill5935/Documents/outdoor-collective/src/pages/index.js"
     },
     "/Users/mill5935/Documents/outdoor-collective/src/pages/trainings.js": {
-      "query": "query usersMill5935DocumentsOutdoorCollectiveSrcPagesTrainingsJs1662641056 {\n  allContentfulTraining(sort: {fields: startDateTime}) {\n    edges {\n      node {\n        title\n        startDateTime\n        endDateTime\n        moreInformation {\n          childMarkdownRemark {\n            html\n          }\n        }\n        location {\n          childMarkdownRemark {\n            html\n          }\n        }\n      }\n    }\n  }\n}\n",
+      "query": "query usersMill5935DocumentsOutdoorCollectiveSrcPagesTrainingsJs3912858142 {\n  allContentfulTrainingsLandingPage {\n    edges {\n      node {\n        leadIn {\n          childMarkdownRemark {\n            html\n          }\n        }\n        largeImage {\n          fluid {\n            src\n          }\n        }\n      }\n    }\n  }\n  allContentfulTraining(sort: {fields: startDateTime}) {\n    edges {\n      node {\n        title\n        startDateTime\n        endDateTime\n        moreInformation {\n          childMarkdownRemark {\n            html\n          }\n        }\n        location {\n          childMarkdownRemark {\n            html\n          }\n        }\n      }\n    }\n  }\n}\n",
       "componentPath": "/Users/mill5935/Documents/outdoor-collective/src/pages/trainings.js"
     }
   },
-  "staticQueryComponents": {}
+  "staticQueryComponents": {
+    "sq--src-layouts-layout-js": {
+      "name": "usersMill5935DocumentsOutdoorCollectiveSrcLayoutsLayoutJs2639965699",
+      "componentPath": "/Users/mill5935/Documents/outdoor-collective/src/layouts/layout.js",
+      "id": "sq--src-layouts-layout-js",
+      "jsonName": "sq--src-layouts-layout-js",
+      "query": "query usersMill5935DocumentsOutdoorCollectiveSrcLayoutsLayoutJs2639965699 {\n  allContentfulHomepage {\n    edges {\n      node {\n        childContentfulHomepageNavigationTextNode {\n          childMarkdownRemark {\n            rawMarkdownBody\n          }\n        }\n      }\n    }\n  }\n}\n",
+      "hash": 2639965699
+    }
+  }
 }

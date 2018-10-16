@@ -18,6 +18,11 @@ class Navigation extends React.Component {
   }
 
   render() {
+    let navigation = []
+    this.props.navigation.split('\n').map(item => {
+      navigation.push(item.split('|'))
+    })
+
     return (
       <nav className="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div className="container">
@@ -28,10 +33,12 @@ class Navigation extends React.Component {
         </button>
         <div className="collapse navbar-collapse" id="navbarResponsive">
           <ul className="navbar-nav ml-auto">
+            {navigation.map(item => (
+              <li className="nav-item" key={item[1]}>
+                <Link className="nav-link" to={item[1]}>{item[0]}</Link>
+              </li>
+            ))}
             
-            <li className="nav-item">
-              <Link className="nav-link" to="/contact">Contact</Link>
-            </li>
           </ul>
         </div>
       </div>

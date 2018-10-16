@@ -3,11 +3,13 @@ import { graphql } from 'gatsby'
 import Layout from '../layouts/layout.js'
 import { css } from 'emotion'
 import moment from 'moment'
+import Masthead from '../layouts/components/masthead'
 
 const Trainings = (props) => {
-  const trainings = props.data.allContentfulTrainings.edges
+  const trainings = props.data.allContentfulTraining.edges
   return (
     <Layout>
+      <Masthead title="Trainings" image={props.data.allContentfulTrainingsLandingPage.edges[0].node.largeImage.fluid.src}/>
       <div className="container">
         <h2>Upcoming trainings</h2>
         {trainings.map(training => (
@@ -31,6 +33,24 @@ export default Trainings
 
 export const query = graphql`
 {
+   
+  allContentfulTrainingsLandingPage {
+    edges {
+      node {
+        leadIn {
+          childMarkdownRemark {
+            html
+          }
+        }
+        largeImage {
+          fluid {
+            src
+          }
+        }
+      }
+    }
+  }
+
   allContentfulTraining(sort:{
     fields:startDateTime
   }) {
