@@ -3,6 +3,8 @@ const path = require(`path`)
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions
   const pageTemplate = path.resolve(`src/templates/page.js`)
+
+  const trainingTemplate = path.resolve(`src/templates/training.js`)
   graphql(`
   {
     allContentfulPage {
@@ -23,6 +25,28 @@ exports.createPages = ({ graphql, actions }) => {
         }
       }
     }
+    allContentfulTraining {
+      edges {
+        node {
+          id
+          title
+          rsvpLink
+          startDateTime
+          endDateTime
+          preTripDateTime
+          moreInformation {
+            childMarkdownRemark {
+              html
+            }
+          }
+          location {
+            childMarkdownRemark {
+              html
+            }
+          }
+        }
+      }
+    }
   }
   `).then(result => {
     result.data.allContentfulPage.edges.map(edge => {
@@ -33,6 +57,18 @@ exports.createPages = ({ graphql, actions }) => {
         context: {
           filePath: edge.node.url,
           page: edge.node,
+        }
+      })
+    })
+
+    result.data.allContentfulTraining.edges.map(edge => {
+      createPage({
+        path: `training/${edge.node.id}`,
+        component: trainingTemplate,
+        layout: 'page',
+        context: {
+          filePath: edge.node.url,
+          training: edge.node,
         }
       })
     })

@@ -49,9 +49,7 @@ const Homepage = (props) => {
     <Layout>
       <Masthead image={page.largeImage.fluid.src} title="Outdoor collective" subheading="We envision a community with equitable access to nature and a shared commitment to conserve it."/>
       <div className="col-lg-8 col-md-10 mx-auto">
-        <p className={css`
-        
-        `} dangerouslySetInnerHTML={{ __html: page.moreInfo.childMarkdownRemark.html}}/>
+        <p dangerouslySetInnerHTML={{ __html: page.moreInfo.childMarkdownRemark.html}}/>
         
       </div>
       <div className="container">
@@ -64,6 +62,7 @@ const Homepage = (props) => {
             </div>
           ))}
         </div>
+        <div className="col-lg-8 col-md-10 mx-auto" style={{marginTop: '2rem'}} dangerouslySetInnerHTML={{__html: page.additionalContent.childMarkdownRemark.html }}/>
       </div>
       
     </Layout>
@@ -78,6 +77,11 @@ export const query = graphql`
     edges {
       node {
         moreInfo {
+          childMarkdownRemark {
+            html
+          }
+        }
+        additionalContent {
           childMarkdownRemark {
             html
           }

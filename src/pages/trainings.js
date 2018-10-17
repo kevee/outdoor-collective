@@ -2,6 +2,7 @@ import React from 'react'
 import { graphql } from 'gatsby'
 import Layout from '../layouts/layout.js'
 import { css } from 'emotion'
+import Link from 'gatsby-link'
 import moment from 'moment'
 import Masthead from '../layouts/components/masthead'
 
@@ -14,7 +15,11 @@ const Trainings = (props) => {
         <h2>Upcoming trainings</h2>
         {trainings.map(training => (
           <div className="card">
-            <h3>{training.node.title}</h3>
+            <h3>
+              <Link to={`training/${training.node.id}`}>
+                {training.node.title}
+              </Link>
+            </h3>
             <h5>{moment(training.node.startDateTime).format('dddd, MMMM D YYYY, h:mm:ss a')}</h5>
             <p>
               <strong className={css`margin-right: 2rem;`}>Location</strong>
@@ -56,9 +61,11 @@ export const query = graphql`
   }) {
     edges {
       node {
+        id
         title
         startDateTime
         endDateTime
+        rsvpLink
         moreInformation {
           childMarkdownRemark {
             html
