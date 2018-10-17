@@ -9,23 +9,27 @@ import Masthead from '../layouts/components/masthead'
 const Trainings = (props) => {
   const trainings = props.data.allContentfulTraining.edges
   return (
-    <Layout>
+    <Layout pageTitle="Trainings">
       <Masthead title="Trainings" image={props.data.allContentfulTrainingsLandingPage.edges[0].node.largeImage.fluid.src}/>
       <div className="container">
         <h2>Upcoming trainings</h2>
         {trainings.map(training => (
-          <div className="card">
-            <h3>
-              <Link to={`training/${training.node.id}`}>
-                {training.node.title}
-              </Link>
-            </h3>
-            <h5>{moment(training.node.startDateTime).format('dddd, MMMM D YYYY, h:mm:ss a')}</h5>
-            <p>
-              <strong className={css`margin-right: 2rem;`}>Location</strong>
-              <span dangerouslySetInnerHTML={{__html: training.node.location.childMarkdownRemark.html}}/>
-            </p>
-            <div dangerouslySetInnerHTML={{__html: training.node.moreInformation.childMarkdownRemark.html}}/>
+          <div className="card" style={{marginTop: '1.5rem'}} key={training.node.id}>
+            <div className="card-body">
+              <h3>
+                <Link to={`training/${training.node.id}`} className={css`
+                  text-decoration: underline;
+                  color: #0085a1;
+                `}>
+                  {training.node.title}
+                </Link>
+              </h3>
+              <h5>{moment(training.node.startDateTime).format('dddd, MMMM D YYYY, h:mm:ss a')}</h5>
+              <p>
+                <strong className={css`margin-right: 2rem;`}>Location</strong>
+                <span dangerouslySetInnerHTML={{__html: training.node.location.childMarkdownRemark.html}}/>
+              </p>
+              </div>
           </div>
 
         ))}

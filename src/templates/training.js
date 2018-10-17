@@ -16,8 +16,9 @@ const TrainingTemplate = (props) => {
       </>
     )
   }
+
   return (
-    <Layout>
+    <Layout pageTitle={props.pageContext.training.title}>
       <Masthead title={props.pageContext.training.title}/>
       <div className="container">
         <Rsvp to={props.pageContext.training.rsvpLink}/>

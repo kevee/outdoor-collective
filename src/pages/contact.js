@@ -7,7 +7,7 @@ import Masthead from '../layouts/components/masthead'
 const Contact = (props) => {
   const contact = props.data.allContentfulContact.edges[0].node
   return (
-    <Layout>
+    <Layout pageTitle="Contact">
       <Masthead image={contact.largeImage.fluid.src} title="Contact us"/>
       <div className="container">
       
