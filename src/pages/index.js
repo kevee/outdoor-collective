@@ -48,8 +48,7 @@ const Homepage = (props) => {
   return (
     <Layout pageTitle="Outdoor Collective">
       <Masthead image={page.largeImage.fluid.src} title="Outdoor collective" subheading="We envision a community with equitable access to nature and a shared commitment to conserve it."/>
-      <div className="col-lg-8 col-md-10 mx-auto">
-        <p dangerouslySetInnerHTML={{ __html: page.moreInfo.childMarkdownRemark.html}}/>
+      <div className="col-lg-8 col-md-10 mx-auto" dangerouslySetInnerHTML={{ __html: page.moreInfo.childMarkdownRemark.html}}>
         
       </div>
       <div className="container">
